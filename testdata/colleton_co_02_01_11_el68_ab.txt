@@ -1,0 +1,490 @@
+E&l2a0o7c067F(s0p16.66h3b6T&a00L
+MANUAL CHANGES LOG LISTING                        Colleton County
+                                                  General Election
+                                                  November 2, 2010
+RUN DATE:12/30/10 04:13 PM                                                                                  ELECTION ID: 15110210
+
+  PRECINCT                                CANDIDATE                            USER  DATE   TIME    GRP     OLD       NEW
+
+0001 Ashton                             VOTERS                                       10-25 04:12 pm           0       103
+                                        Nikki R Haley                                10-26 04:10 pm  3        0        50
+                                        Vincent A Sheheen                            10-26 04:10 pm  3        0        45
+                                        Mark Hammond                                 10-27 08:29 am  3        0        98
+                                        Marjorie L Johnson                           10-27 08:29 am  3        0         2
+                                        Curtis Loftis                                10-27 08:29 am  3        0        20
+                                        Tom Clements                                 10-27 08:29 am  3        0        50
+                                        Jim DeMint                                   10-27 08:29 am  3        0        53
+                                        Steven  D Murdaugh                           10-27 08:29 am  3        0        40
+                                        Mack  D Thomas                               10-27 08:29 am  3        0        39
+                                        Josh H. Barnes                               10-27 08:29 am  3        0       100
+                                        Wesley Ulmer                                 10-27 08:29 am  3        0        25
+
+0002 Bells                              VOTERS                                       10-25 04:12 pm           0       218
+
+0003 Berea                                                                           10-25 04:12 pm           0        86
+
+0005 Canadys                                                                         10-25 04:12 pm           0       456
+
+0006 Cottageville                                                                    10-25 04:12 pm           0     1,971
+
+0007 Edisto                             Nikki R Haley                                10-27 08:34 am  3        0       100
+                                        Vincent A Sheheen                            10-27 08:34 am  3        0       125
+                                        Mark Hammond                                 10-27 08:34 am  3        0       220
+                                        Leslie Minerd                                10-27 08:34 am  3        0       200
+                                        Frank Holleman                               10-27 08:34 am  3        0       200
+                                        Jim DeMint                                   10-27 08:34 am  3        0       125
+                                        James E Jim Clyburn                          10-27 08:34 am  3        0       200
+                                        Bill Bowers                                  10-27 08:34 am  3        0       125
+                                        W Wesley Jones                               10-27 08:34 am  3        0       125
+                                        Ashley  H Amundson                           10-27 08:34 am  3        0       100
+                                        Jim Hiott                                    10-27 08:34 am  3        0       275
+                                        Becky  S Hill                                10-27 08:34 am  3        0       200
+                                        W Gene Whetsell                              10-27 08:34 am  3        0       175
+                                        Evon Robinson  Sr                            10-27 08:34 am  3        0       200
+                                        Raul  C Bradley                              10-27 08:34 am  3        0       100
+                                        VOTERS                                       10-25 04:12 pm           0       318
+
+0008 Green Pond                                                                      10-25 04:12 pm           0       793
+
+0009 Hendersonville                                                                  10-25 04:12 pm           0     1,110
+
+0010 Horse Pen                                                                       10-25 04:12 pm           0       541
+
+0011 Hudson Mill                                                                     10-25 04:12 pm           0       450
+
+0012 Jacksonboro                        Nikki R Haley                                10-27 08:36 am  3        0       125
+                                        Vincent A Sheheen                            10-27 08:36 am  3        0       200
+                                                                                     11-03 10:48 am  4      136       275
+                                        Ashley Cooper                                11-03 10:48 am  4      148       299
+                                        Mark Hammond                                 10-27 08:36 am  3        0       200
+                                        Matthew Richardson                           11-03 10:48 am  4      138       279
+                                        Robert Barber                                11-03 10:48 am  4      143       289
+                                        Frank Holleman                               11-03 10:48 am  4      135       273
+                                        Tom E Elliott                                11-03 10:48 am  4      134       271
+                                        Jim DeMint                                   10-27 08:36 am  3        0       200
+                                        Jim Pratt                                    10-27 08:36 am  3        0       200
+                                        James E Jim Clyburn                          10-27 08:36 am  3        0       100MANUAL CHANGES LOG LISTING                        Colleton County
+                                                  General Election
+                                                  November 2, 2010
+RUN DATE:12/30/10 04:13 PM                                                                                  ELECTION ID: 15110210
+
+  PRECINCT                                CANDIDATE                            USER  DATE   TIME    GRP     OLD       NEW
+
+0012 Jacksonboro                        James E Jim Clyburn                          11-03 10:48 am  4      137       277
+                                        Robert L Brown                               10-27 08:36 am  3        0       200
+                                        Kenneth F Hodges                             10-27 08:36 am  3        0       212
+                                                                                     11-03 10:48 am  4      156       315
+                                        Ashley  H Amundson                           10-27 08:36 am  3        0       225
+                                                                                     11-03 10:48 am  4      142       286
+                                        Jim Hiott                                    10-27 08:36 am  3        0       300
+                                        Becky  S Hill                                10-27 08:36 am  3        0       300
+                                        Evon Robinson  Sr                            11-03 10:48 am  4      154       311
+                                        Yes                                          11-03 10:48 am  4      134       270
+                                        Yes                                          11-03 10:48 am  4      145       292
+                                        Yes                                          11-03 10:48 am  4      130       261
+                                        No                                           11-03 10:48 am  4       46        93
+                                        Yes                                          11-03 10:48 am  4      137       275
+                                        No                                           11-03 10:48 am  4       46        93
+                                        VOTERS                                       10-25 04:12 pm           0       348
+
+0013 Lodge                                                                           10-25 04:12 pm           0       377
+
+0014 Maple Cane                                                                      10-25 04:12 pm           0       460
+
+0015 Mashawville                                                                     10-25 04:12 pm           0       680
+
+0017 Peeples                                                                         10-25 04:12 pm           0       526
+
+0018 Petits                             Nikki R Haley                                11-03 01:08 pm  4       42        92
+                                        Vincent A Sheheen                            11-03 01:08 pm  4       30        63
+                                        Ken Ard                                      11-03 01:08 pm  4       46        95
+                                        Ashley Cooper                                11-03 01:08 pm  4       28        58
+                                        Mark Hammond                                 11-03 01:08 pm  4       48       104
+                                        Marjorie L Johnson                           11-03 01:08 pm  4       24        50
+                                        Curtis Loftis                                11-03 01:08 pm  4       51       111
+                                        Alan Wilson                                  11-03 01:08 pm  4       46       101
+                                        Matthew Richardson                           11-03 01:08 pm  4       28        58
+                                        Richard A Eckstrom                           11-03 01:08 pm  4       44        97
+                                        Robert Barber                                11-03 01:08 pm  4       29        60
+                                        Mick Zais                                    11-03 01:08 pm  4       38        84
+                                        Frank Holleman                               11-03 01:08 pm  4       29        61
+                                        Bob Livingston                               11-03 01:08 pm  4       49       107
+                                        Hugh Weathers                                11-03 01:08 pm  4       47       103
+                                        Tom E Elliott                                11-03 01:08 pm  4       26        54
+                                        Jim DeMint                                   11-03 01:08 pm  4       48       105
+                                        Alvin M Greene                               11-03 01:08 pm  4       23        25
+                                        Jim Pratt                                    11-03 01:08 pm  4       46       100
+                                        James E Jim Clyburn                          11-03 01:08 pm  4       27        57
+                                        Dan Lawrence                                 11-03 01:08 pm  4       35        75
+                                        Bill Bowers                                  11-03 01:08 pm  4       37        80
+                                        W Wesley Jones                               11-03 01:08 pm  4       38        84
+                                        Ashley  H Amundson                           11-03 01:08 pm  4       35        73
+                                        Jim Hiott                                    11-03 01:08 pm  4       52       113
+                                        Becky  S Hill                                11-03 01:08 pm  4       52       113
+                                        W Gene Whetsell                              11-03 01:08 pm  4       50       109
+                                        Steven  D Murdaugh                           11-03 01:08 pm  4       40        89
+                                        John  C Barnes                               11-03 01:08 pm  4       36        79
+                                        Gary  S Herndon                              11-03 01:08 pm  4       44        95
+                                        Yes                                          11-03 01:08 pm  4       70       151
+                                        Yes                                          11-03 01:08 pm  4       61       130
+                                        No                                           11-03 01:08 pm  4       13        29
+                                        Yes                                          11-03 01:08 pm  4       49       106MANUAL CHANGES LOG LISTING                        Colleton County
+                                                  General Election
+                                                  November 2, 2010
+RUN DATE:12/30/10 04:13 PM                                                                                  ELECTION ID: 15110210
+
+  PRECINCT                                CANDIDATE                            USER  DATE   TIME    GRP     OLD       NEW
+
+0018 Petits                             No                                           11-03 01:08 pm  4       25        53
+                                        Yes                                          11-03 01:08 pm  4       49       106
+                                        No                                           11-03 01:08 pm  4       24        51
+                                        VOTERS                                       10-25 04:12 pm           0       145
+
+0019 Peniel                             Nikki R Haley                                11-03 10:42 am  4      111       244
+                                        Vincent A Sheheen                            11-03 10:31 am  4       45        91
+                                                                                     11-03 10:42 am  4       91       185
+                                        Ken Ard                                      11-03 10:31 am  4       96       193
+                                                                                     11-03 10:42 am  4      193       403
+                                        Ashley Cooper                                11-03 10:42 am  4       62       132
+                                        Mark Hammond                                 11-03 10:31 am  4      111       223
+                                                                                     11-03 10:42 am  4      223       447
+                                        Marjorie L Johnson                           11-03 10:42 am  4       45        93
+                                        Curtis Loftis                                11-03 10:31 am  4      122       245
+                                                                                     11-03 10:42 am  4      245       511
+                                        Alan Wilson                                  11-03 10:31 am  4       99       199
+                                                                                     11-03 10:42 am  4      199       422
+                                        Matthew Richardson                           11-03 10:42 am  4       50       104
+                                        Richard A Eckstrom                           11-03 10:31 am  4      107       215
+                                                                                     11-03 10:42 am  4      215       445
+                                        Robert Barber                                11-03 10:42 am  4       50       107
+                                        Mick Zais                                    11-03 10:31 am  4      101       203
+                                                                                     11-03 10:42 am  4      203       424
+                                        Tim Moultrie                                 11-03 10:42 am  4        3         7
+                                        Frank Holleman                               11-03 10:42 am  4       46        97
+                                        Tony Fayyazi                                 11-03 10:42 am  4        2         5
+                                        Bob Livingston                               11-03 10:31 am  4      122       245
+                                                                                     11-03 10:42 am  4      245       267
+                                        Hugh Weathers                                11-03 10:31 am  4      113       227
+                                                                                     11-03 10:42 am  4      227       474
+                                        Tom E Elliott                                11-03 10:42 am  4       39        81
+                                        Tom Clements                                 11-03 10:42 am  4        5        13
+                                        Jim DeMint                                   11-03 10:31 am  4      118       237
+                                                                                     11-03 10:42 am  4      237       493
+                                        Alvin M Greene                               11-03 10:42 am  4       28        58
+                                        Jim Pratt                                    11-03 10:31 am  4      111       223
+                                                                                     11-03 10:42 am  4      223       466
+                                        James E Jim Clyburn                          11-03 10:42 am  4       45        95
+                                        Dan Lawrence                                 11-03 10:42 am  4       81       173
+                                        Bill Bowers                                  11-03 10:42 am  4       74       155
+                                        W Wesley Jones                               11-03 10:31 am  4       83       167
+                                                                                     11-03 10:42 am  4      167       349
+                                        Ashley  H Amundson                           11-03 10:42 am  4       73       156
+                                        Jim Hiott                                    11-03 10:31 am  4      127       255
+                                                                                     11-03 10:42 am  4      255       531
+                                        Becky  S Hill                                11-03 10:31 am  4      130       261
+                                                                                     11-03 10:42 am  4      261       543
+                                        W Gene Whetsell                              11-03 10:31 am  4      125       251
+                                                                                     11-03 10:42 am  4      251       523
+                                        Steven  D Murdaugh                           11-03 10:42 am  4       94       201
+                                        Mack  D Thomas                               11-03 10:42 am  4       60       124
+                                        John  C Barnes                               11-03 10:42 am  4       87       187
+                                        Dolphus Pinckney                             11-03 10:42 am  4       28        59
+                                        Gary  S Herndon                              11-03 10:42 am  4      108       234
+                                        Yes                                          11-03 10:42 am  4      138       297
+                                        No                                           11-03 10:31 am  4       17        35
+                                                                                     11-03 10:42 am  4       35        74
+                                        Yes                                          11-03 10:31 am  4      134       269MANUAL CHANGES LOG LISTING                        Colleton County
+                                                  General Election
+                                                  November 2, 2010
+RUN DATE:12/30/10 04:13 PM                                                                                  ELECTION ID: 15110210
+
+  PRECINCT                                CANDIDATE                            USER  DATE   TIME    GRP     OLD       NEW
+
+0019 Peniel                             Yes                                          11-03 10:42 am  4      269       558
+                                        No                                           11-03 10:42 am  4       19        42
+                                        Yes                                          11-03 10:42 am  4      103       228
+                                        No                                           11-03 10:31 am  4       50       101
+                                                                                     11-03 10:42 am  4      101       205
+                                        Yes                                          11-03 10:42 am  4      101       222
+                                        No                                           11-03 10:31 am  4       49        99
+                                                                                     11-03 10:42 am  4       99       203
+                                        VOTERS                                       10-25 04:12 pm           0       338
+
+0020 Ritter                             James Broderick                              11-03 12:53 pm  4       48        98
+                                        Wayne Shider                                 11-03 12:53 pm  4       67       138
+                                        VOTERS                                       10-25 04:12 pm           0       664
+
+0021 Round O                            Republican                                   10-26 04:15 pm  3        0       200
+                                        Democratic                                   10-26 04:15 pm  3        0       300
+                                        Nikki R Haley                                11-03 10:28 am  4      118       238
+                                        Vincent A Sheheen                            11-03 10:28 am  4      120       241
+                                        Ken Ard                                      11-03 10:28 am  4      115       232
+                                        Ashley Cooper                                11-03 10:28 am  4      124       249
+                                        Mark Hammond                                 11-03 10:28 am  4      135       272
+                                        Marjorie L Johnson                           11-03 10:28 am  4      102       205
+                                        Curtis Loftis                                11-03 10:28 am  4      155       312
+                                        Alan Wilson                                  11-03 10:28 am  4      117       236
+                                        Matthew Richardson                           11-03 10:28 am  4      122       245
+                                        Richard A Eckstrom                           11-03 10:28 am  4      129       260
+                                        Robert Barber                                11-03 10:28 am  4      113       227
+                                        Mick Zais                                    11-03 10:28 am  4      118       238
+                                        Frank Holleman                               11-03 10:28 am  4      117       235
+                                        Bob Livingston                               11-03 10:28 am  4      153       308
+                                        Hugh Weathers                                11-03 10:28 am  4      136       274
+                                        Tom E Elliott                                11-03 10:28 am  4      106       213
+                                        Jim DeMint                                   11-03 10:28 am  4      144       290
+                                        Alvin M Greene                               11-03 10:28 am  4       89       179
+                                        Jim Pratt                                    11-03 10:28 am  4      126       254
+                                        James E Jim Clyburn                          11-03 10:28 am  4      115       231
+                                        Dan Lawrence                                 11-03 10:28 am  4       86       174
+                                        Bill Bowers                                  11-03 10:28 am  4       85       171
+                                        W Wesley Jones                               11-03 10:28 am  4      119       240
+                                        Ashley  H Amundson                           11-03 10:28 am  4      123       247
+                                        Jim Hiott                                    11-03 10:28 am  4      162       326
+                                        Becky  S Hill                                11-03 10:28 am  4      165       332
+                                        W Gene Whetsell                              11-03 10:28 am  4      160       322
+                                        Steven  D Murdaugh                           11-03 10:28 am  4      137       276
+                                        Mack  D Thomas                               11-03 10:28 am  4      105       211
+                                        Paul  J Haase                                11-03 10:28 am  4      126       253
+                                        Gary  S Herndon                              11-03 10:28 am  4      128       255
+                                        Yes                                          11-03 10:28 am  4      199       400
+                                        No                                           11-03 10:28 am  4       39        79
+                                        Yes                                          11-03 10:28 am  4      182       366
+                                        No                                           11-03 10:28 am  4       52       105
+                                        Yes                                          11-03 10:28 am  4      132       267
+                                        No                                           11-03 10:28 am  4       98       197
+                                        Yes                                          11-03 10:28 am  4      151       305
+                                        VOTERS                                       10-25 04:12 pm           0       579
+
+0022 Rice Patch                                                                      10-25 04:12 pm           0       536
+
+0023 Ruffin                                                                          10-25 04:12 pm           0       291MANUAL CHANGES LOG LISTING                        Colleton County
+                                                  General Election
+                                                  November 2, 2010
+RUN DATE:12/30/10 04:13 PM                                                                                  ELECTION ID: 15110210
+
+  PRECINCT                                CANDIDATE                            USER  DATE   TIME    GRP     OLD       NEW
+
+0024 Ruffin                             VOTERS                                       10-25 04:12 pm           0       334
+
+0025 Smoaks                             Republican                                   10-26 04:16 pm  3        0       345
+                                        Democratic                                   10-26 04:16 pm  3        0       400
+                                        VOTERS                                       10-25 04:12 pm           0       745
+
+0026 Stokes                                                                          10-25 04:12 pm           0       519
+                                        Morgan Bruce Reeves                          11-03 10:16 am  4        8        29
+                                        Nikki R Haley                                11-03 10:16 am  4      193       411
+                                        Vincent A Sheheen                            11-03 10:16 am  4       66       214
+                                        Ken Ard                                      11-03 10:16 am  4      191       406
+                                        Ashley Cooper                                11-03 10:16 am  4       72       151
+                                        Mark Hammond                                 11-03 10:16 am  4      212       453
+                                        Marjorie L Johnson                           11-03 10:16 am  4       52       106
+                                        Curtis Loftis                                11-03 10:16 am  4      219       469
+                                        Leslie Minerd                                11-03 10:16 am  4        9        35
+                                        Alan Wilson                                  11-03 10:16 am  4      190       407
+                                        Matthew Richardson                           11-03 10:16 am  4       67       137
+                                        Richard A Eckstrom                           11-03 10:16 am  4      207       435
+                                        Robert Barber                                11-03 10:16 am  4       59       122
+                                        Mick Zais                                    11-03 10:16 am  4      200       426
+                                        Frank Holleman                               11-03 10:16 am  4       54       112
+                                        Bob Livingston                               11-03 10:16 am  4      223       473
+                                        Hugh Weathers                                11-03 10:16 am  4      210       446
+                                        Tom Clements                                 11-03 10:16 am  4       15        48
+                                        Jim DeMint                                   11-03 10:16 am  4      215       459
+                                        Jim Pratt                                    11-03 10:16 am  4      211       448
+                                        James E Jim Clyburn                          11-03 10:16 am  4       54       112
+                                        Dan Lawrence                                 11-03 10:16 am  4      167       352
+                                        Bill Bowers                                  11-03 10:16 am  4       97       200
+                                        W Wesley Jones                               11-03 10:16 am  4      174       365
+                                        Ashley  H Amundson                           11-03 10:16 am  4       95       207
+                                        Jim Hiott                                    11-03 10:16 am  4      229       478
+                                        Becky  S Hill                                11-03 10:16 am  4      229       489
+                                        W Gene Whetsell                              11-03 10:16 am  4      226       470
+                                        Steven  D Murdaugh                           11-03 10:16 am  4      196       413
+                                        Mack  D Thomas                               11-03 10:16 am  4       69       144
+                                        John  C Barnes                               11-03 10:16 am  4      166       350
+                                        Dolphus Pinckney                             11-03 10:16 am  4       44        95
+                                        Gary  S Herndon                              11-03 10:16 am  4      176       376
+
+0027 Sniders                            Nikki R Haley                                11-03 10:52 am  4      158       318
+                                        Vincent A Sheheen                            11-03 10:52 am  4      104       209
+                                        Ken Ard                                      11-03 10:52 am  4      143       287
+                                        Ashley Cooper                                11-03 10:52 am  4      124       249
+                                        Mark Hammond                                 11-03 10:52 am  4      167       336
+                                        Marjorie L Johnson                           11-03 10:52 am  4       94       189
+                                        Curtis Loftis                                11-03 10:52 am  4      183       368
+                                        Alan Wilson                                  11-03 10:52 am  4      151       304
+                                        Matthew Richardson                           11-03 10:52 am  4      106       213
+                                        Richard A Eckstrom                           11-03 10:52 am  4      160       322
+                                        Mick Zais                                    11-03 10:52 am  4      146       294
+                                        Bob Livingston                               11-03 10:52 am  4      185       372
+                                        Hugh Weathers                                11-03 10:52 am  4      173       348
+                                        Tom E Elliott                                11-03 10:52 am  4       88       177
+                                        Jim DeMint                                   11-03 10:52 am  4      177       355
+                                        Alvin M Greene                               11-03 10:52 am  4       77       155
+                                        Jim Pratt                                    11-03 10:52 am  4      167       335
+                                        James E Jim Clyburn                          11-03 10:52 am  4       97       195MANUAL CHANGES LOG LISTING                        Colleton County
+                                                  General Election
+                                                  November 2, 2010
+RUN DATE:12/30/10 04:13 PM                                                                                  ELECTION ID: 15110210
+
+  PRECINCT                                CANDIDATE                            USER  DATE   TIME    GRP     OLD       NEW
+
+0027 Sniders                            Dan Lawrence                                 11-03 10:52 am  4      106       214
+                                        Bill Bowers                                  11-03 10:52 am  4      160       321
+                                        W Wesley Jones                               11-03 10:52 am  4      132       266
+                                        Ashley  H Amundson                           11-03 10:52 am  4      134       269
+                                        Jim Hiott                                    11-03 10:52 am  4      190       382
+                                        Becky  S Hill                                11-03 10:52 am  4      193       388
+                                        W Gene Whetsell                              11-03 10:52 am  4      188       378
+                                        Mack  D Thomas                               11-03 10:52 am  4      107       215
+                                        John  C Barnes                               11-03 10:52 am  4      143       288
+                                        Gary  S Herndon                              11-03 10:52 am  4      173       348
+                                        Yes                                          11-03 10:52 am  4      236       475
+                                        Yes                                          11-03 10:52 am  4      209       421
+                                        Yes                                          11-03 10:52 am  4      176       354
+                                        Yes                                          11-03 10:52 am  4      180       362
+                                        VOTERS                                       10-25 04:12 pm           0       544
+
+0029 Walterboro No 1                    Nikki R Haley                                10-26 04:14 pm  3        0       500
+                                        Vincent A Sheheen                            10-26 04:14 pm  3        0       600
+                                        Mick Zais                                    10-26 04:14 pm  3        0       500
+                                        Frank Holleman                               10-26 04:14 pm  3        0       300
+                                        Hugh Weathers                                10-26 04:14 pm  3        0       200
+                                        Tom E Elliott                                10-26 04:14 pm  3        0       300
+                                        Tom Clements                                 10-26 04:14 pm  3        0       200
+                                        Jim DeMint                                   10-26 04:14 pm  3        0       300
+                                        Nammu Y Muhammad                             10-26 04:14 pm  3        0       400
+                                        Jim Pratt                                    10-26 04:14 pm  3        0       500
+                                        Dan Lawrence                                 10-26 04:14 pm  3        0       500
+                                        Bill Bowers                                  10-26 04:14 pm  3        0       300
+                                        Kenneth F Hodges                             10-26 04:14 pm  3        0       200
+                                        W Wesley Jones                               10-26 04:14 pm  3        0       300
+                                        Ashley  H Amundson                           10-26 04:14 pm  3        0       600
+                                        Jim Hiott                                    10-26 04:14 pm  3        0     1,330
+                                        Becky  S Hill                                10-26 04:14 pm  3        0     1,330
+                                        W Gene Whetsell                              10-26 04:14 pm  3        0     1,330
+                                        Steven  D Murdaugh                           10-26 04:14 pm  3        0     1,200
+                                        Mack  D Thomas                               10-26 04:14 pm  3        0       200
+                                        Evon Robinson  Sr                            10-26 04:14 pm  3        0     1,330
+                                        John  C Barnes                               10-26 04:14 pm  3        0       500
+                                        Dolphus Pinckney                             10-26 04:14 pm  3        0       800
+                                        James Broderick                              10-26 04:14 pm  3        0       800
+                                        Wayne Shider                                 10-26 04:14 pm  3        0       500
+                                        Gary  S Herndon                              10-26 04:14 pm  3        0       500
+                                        VOTERS                                       10-25 04:12 pm           0     1,490
+
+0030 Walterboro No 2                                                                 10-25 04:12 pm           0     1,871
+
+0031 Walterboro No 3                                                                 10-25 04:12 pm           0     1,834
+
+0032 Walterboro No 4                    Vincent A Sheheen                            11-03 01:01 pm  4      386       773
+                                        Ashley Cooper                                11-03 01:01 pm  4      403       807
+                                        Marjorie L Johnson                           11-03 01:01 pm  4      272       545
+                                        Matthew Richardson                           11-03 01:01 pm  4      363       727
+                                        Robert Barber                                11-03 01:01 pm  4      340       681
+                                        Frank Holleman                               11-03 01:01 pm  4      343       687
+                                        Tom E Elliott                                11-03 01:01 pm  4      276       553
+                                        Alvin M Greene                               11-03 01:01 pm  4      192       385
+                                        James E Jim Clyburn                          11-03 01:01 pm  4      326       653
+                                        Ashley  H Amundson                           11-03 01:01 pm  4      497       995
+                                        Yes                                          11-03 01:01 pm  4      869     1,739MANUAL CHANGES LOG LISTING                        Colleton County
+                                                  General Election
+                                                  November 2, 2010
+RUN DATE:12/30/10 04:13 PM                                                                                  ELECTION ID: 15110210
+
+  PRECINCT                                CANDIDATE                            USER  DATE   TIME    GRP     OLD       NEW
+
+0032 Walterboro No 4                    Yes                                          11-03 01:01 pm  4      835     1,671
+                                        Yes                                          11-03 01:01 pm  4      695     1,391
+                                        Yes                                          11-03 01:01 pm  4      710     1,421
+                                        VOTERS                                       10-25 04:12 pm           0     2,854
+
+0033 Williams                                                                        10-25 04:12 pm           0       232
+
+0034 Wolfe Creek                        Vincent A Sheheen                            11-03 10:45 am  4       32        66
+                                        Ashley Cooper                                11-03 10:45 am  4       30        62
+                                        Marjorie L Johnson                           11-03 10:45 am  4       24        50
+                                        Matthew Richardson                           11-03 10:45 am  4       28        58
+                                        Robert Barber                                11-03 10:45 am  4       26        54
+                                        Frank Holleman                               11-03 10:45 am  4       25        52
+                                        Tom E Elliott                                11-03 10:45 am  4       25        52
+                                        Jim DeMint                                   11-03 10:45 am  4      132       265
+                                        Alvin M Greene                               11-03 10:45 am  4        8        17
+                                        James E Jim Clyburn                          11-03 10:45 am  4       31        64
+                                        Bill Bowers                                  11-03 10:45 am  4       69       140
+                                        Ashley  H Amundson                           11-03 10:45 am  4       61       124
+                                        Mack  D Thomas                               11-03 10:45 am  4       31        64
+                                        Dolphus Pinckney                             11-03 10:45 am  4       24        50
+                                        Yes                                          11-03 10:45 am  4      143       288
+                                        Yes                                          11-03 10:45 am  4      135       272
+                                        Yes                                          11-03 10:45 am  4      117       236
+                                        Yes                                          11-03 10:45 am  4      107       216
+                                        VOTERS                                       10-25 04:12 pm           0       275
+
+0035 Edisto Beach                                                                    10-25 04:12 pm           0       802
+
+0750 Absentee                           Nikki R Haley                                11-03 01:16 pm  3      203       408
+                                        Vincent A Sheheen                            11-03 01:16 pm  3      145       292
+                                        Ken Ard                                      11-03 01:16 pm  3      200       403
+                                        Ashley Cooper                                11-03 01:16 pm  3      155       311
+                                        Mark Hammond                                 11-03 01:16 pm  3      268       539
+                                        Marjorie L Johnson                           11-03 01:16 pm  3       86       173
+                                        Curtis Loftis                                11-03 01:16 pm  3      274       552
+                                        Alan Wilson                                  11-03 01:16 pm  3      212       426
+                                        Matthew Richardson                           11-03 01:16 pm  3      134       270
+                                        Richard A Eckstrom                           11-03 01:16 pm  3      239       481
+                                        Robert Barber                                11-03 01:16 pm  3      112       225
+                                        Mick Zais                                    11-03 01:16 pm  3      219       441
+                                        Frank Holleman                               11-03 01:16 pm  3      113       227
+                                        Bob Livingston                               11-03 01:16 pm  3      270       544
+                                        Hugh Weathers                                11-03 01:16 pm  3      258       519
+                                        Tom E Elliott                                11-03 01:16 pm  3       93       187
+                                        Jim DeMint                                   11-03 01:16 pm  3      253       509
+                                        Alvin M Greene                               11-03 01:16 pm  3       41        83
+                                        Jim Pratt                                    11-03 01:16 pm  3      242       487
+                                        James E Jim Clyburn                          11-03 01:16 pm  3      110       221
+                                        Dan Lawrence                                 11-03 01:16 pm  3       66       134
+                                        Bill Bowers                                  11-03 01:16 pm  3      124       249
+                                        Kenneth F Hodges                             11-03 01:16 pm  3       66       134
+                                        W Wesley Jones                               11-03 01:16 pm  3      173       348
+                                        Ashley  H Amundson                           11-03 01:16 pm  3      182       366
+                                        Jim Hiott                                    11-03 01:16 pm  3      277       558
+                                        Becky  S Hill                                11-03 01:16 pm  3      283       570
+                                        W Gene Whetsell                              11-03 01:16 pm  3      271       546
+                                        Steven  D Murdaugh                           11-03 01:16 pm  3      142       286
+                                        Mack  D Thomas                               11-03 01:16 pm  3       48        97MANUAL CHANGES LOG LISTING                        Colleton County
+                                                  General Election
+                                                  November 2, 2010
+RUN DATE:12/30/10 04:13 PM                                                                                  ELECTION ID: 15110210
+
+  PRECINCT                                CANDIDATE                            USER  DATE   TIME    GRP     OLD       NEW
+
+0750 Absentee                           Dolphus Pinckney                             11-03 01:16 pm  3        6        13
+                                        Paul  J Haase                                11-03 01:16 pm  3       33        67
+                                        Wayne Shider                                 11-03 01:16 pm  3        4         9
+                                        Gary  S Herndon                              11-03 01:16 pm  3      273       553
+                                        Yes                                          11-03 01:16 pm  3      457       918
+                                        Yes                                          11-03 01:16 pm  3      444       892
+                                        Yes                                          11-03 01:16 pm  3      373       748
+                                        No                                           11-03 01:16 pm  3      122       246
+                                        Yes                                          11-03 01:16 pm  3      396       794
+                                        No                                           11-03 01:16 pm  3       97       196
+
+0850 Failsafe                           Republican                                   11-03 10:56 am  4        0         1
+                                        Nikki R Haley                                11-03 10:56 am  4        0         1
+                                        Ken Ard                                      11-03 10:56 am  4        0         1
+                                        Mark Hammond                                 11-03 10:56 am  4        0         1
+                                        Curtis Loftis                                11-03 10:56 am  4        0         1
+                                        Alan Wilson                                  11-03 10:56 am  4        0         1
+                                        Richard A Eckstrom                           11-03 10:56 am  4        0         1
+                                        Mick Zais                                    11-03 10:56 am  4        0         1
+                                        Bob Livingston                               11-03 10:56 am  4        0         1
+                                        Hugh Weathers                                11-03 10:56 am  4        0         1
+                                        Jim DeMint                                   11-03 10:56 am  4        0         1
+                                        Jim Pratt                                    11-03 10:56 am  4        0         1
+                                        W Wesley Jones                               11-03 10:56 am  4        0         1
+                                        Jim Hiott                                    11-03 10:56 am  4        0         1
+                                        Becky  S Hill                                11-03 10:56 am  4        0         1
+                                        W Gene Whetsell                              11-03 10:56 am  4        0         1
+E
