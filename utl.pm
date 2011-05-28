@@ -22,7 +22,6 @@
 # FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER
 # DEALINGS IN THE SOFTWARE.
 
-#
 # utility functions
 
 # parseCommandLine( \@ARGV, $n, $opt, \&help )
@@ -120,7 +119,17 @@ sub parseCommandLine
 				if ( ( ( $i + 1 ) < @$argv ) &&
 					 ( $argv->[$i + 1] !~ /(\-\|\?)/ ) )
 				{
-					$args{ $opts[$j] } = validFileName( $argv->[++$i] );
+					my $t = validFileName( $argv->[++$i] );
+
+					# some options, such as date may have multiple
+					# values, so if this parameter already has a value,
+					# prepend new value to front of present value.
+					if ( defined $args{ $opts[$j] } )
+					{
+						$t = $t . "_" . $args{ $opts[$j] };
+					}
+					
+					$args{ $opts[$j] } = $t;
 				}
 				else
 				{
