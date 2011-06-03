@@ -184,7 +184,7 @@ sub printList
 
 # print all the items in a hash table, one per line
 
-sub printHash
+sub printHashValues
 {
 	my ( $fh, $header, $hash ) = @_;
 
@@ -192,7 +192,23 @@ sub printHash
 
 	foreach my $key ( sort keys %$hash )
 	{
-		print "$hash->{ $key }\n";
+		print $fh "$hash->{ $key }\n";
+	}
+}
+
+#########################################################
+
+# print all the keys in a hash table, one per line
+
+sub printHashKeys
+{
+	my ( $fh, $header, $hash ) = @_;
+
+	print $fh "$header\n\n";
+
+	foreach my $key ( sort keys %$hash )
+	{
+		print $fh "$key\n";
 	}
 }
 
@@ -219,6 +235,24 @@ sub printHashRecords
 	}
 }
 
+############################################################
+
+# print ballot image record from six fields that make up the
+# record in the el155 vote image file.
+
+sub printBIrecord
+{
+	my ( $ivo, $bi, $asterisk, $cnd_id, $cnd, $cnt, $fh ) = @_;
+
+	if ( $asterisk ne '*' )
+	{
+		$asterisk = ' ';
+	}
+
+	printf $fh "%7d %4d %s %4d %-40s", $ivo, $bi, $asterisk, $cnd_id, $cnd;
+	print $fh "$cnt\n";
+	
+}
 
 ############################################################
 #
@@ -230,6 +264,7 @@ sub printHashRecords
 # zeros, so that "2" becomes "0002" and "10" becomes "0010". The first
 # parameter is the initial number and the second parameter is the length of
 # the final number.
+
 sub zeroPad
 {
 	my ( $n, $p ) = @_;
@@ -285,7 +320,6 @@ sub match
 # Append to the end of every value in hash table $h the value in $r
 # using $c to separate records.
 
-
 sub appendHash
 {
 	my ( $r, $c, $h ) = @_;
@@ -303,6 +337,7 @@ sub appendHash
 # Lowercase everything, trim leading spaces, trim trailing spaces,
 # remove any character that isn't a letter, digit or underscore and
 # replace spaces with underscore characters.
+
 sub clean
 {
 	my $s = $_[0];
@@ -331,6 +366,23 @@ sub clean
 	return $s;
 }
 
+#########################################################
+
+# load the translation table in to a hash table. No
+# need to return a value as the calling function sends
+# a reference to the hash able being used.
+
+sub getTranslations
+{
+	my ( $tt, $fh) = @_;
+	
+	while ( <$fh> )
+	{
+		chomp;
+		my @line = split( "\\t" );
+		$tt->{ $line[0] } = $line[1];
+	}
+}
 
 # the package has to return true to load.
 1;

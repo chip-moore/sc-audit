@@ -1,0 +1,101 @@
+names
+
+5TH CIRCUIT SOLICITOR
+ADJUTANT GENERAL
+ATTORNEY GENERAL
+Absentee 1
+Alan Wilson
+Alvin M Greene
+Amendment 1
+Amendment 2
+Amendment 3
+Amendment 4
+Amy McCulloch
+Ashley Cooper
+Barbara Specter
+Bill Flemming
+Bob Livingston
+Bruce Reeves
+CCL0005 COUNTY COUNCIL DISTRICT 1
+COMMISSIONER OF AGRICULTURE
+COMPTROLLER GENERAL
+CON0002 U.S. House of Rep Dist 2
+CON0006 U.S. House of Rep Dist 6
+COUNTY AUDITOR
+COUNTY TREASURER
+Chris Hart
+Christopher Jones
+College
+Curtis Loftis
+Dan Johnson
+Dan Neal
+David A Adams
+Democratic
+Frank Holleman
+GOVERNOR
+HOU070 State House of Rep Dist 73
+HOU072 State House of Rep Dist 72
+HOU073 State House of Rep Dist 73
+HOU074 State House of Rep Dist 74
+HOU078 State House of Rep Dist 78
+HOU079 State House of Rep Dist 79
+HWS073 State House of Rep Dist 73
+Hemphill  P Pride III
+Hemphill P Pride III
+Hugh Weathers
+J Todd Rutherford
+James A Mobley
+James E Jim Clyburn
+James Manning
+James Smith
+Jim DeMint
+Jim Pratt
+Joe Neal
+Joe Wilson
+Ken Ard
+Kim Murphy
+LIEUTENANT GOVERNOR
+Lake Carolina
+Marjorie L Johnson
+Mark Hammond
+Mark W Huguley
+Matthew Richardson
+Melinda Anderson
+Mia Butler
+Mick Zais
+Nikki R Haley
+No
+PROBATE JUDGE
+Paige B George
+Parkway  #1
+Parkway #1
+Paul Brawley
+Republican
+Richard A Eckstrom
+Rob Miller
+Robert Barber
+SAL0001 RICHLAND COUNTY SCHOOL DISTRICT
+SCH0002  School Board District 2
+SCH0002 School Board District 2
+SCH0005 School Board District 5
+SECRETARY OF STATE
+STATE SUPERINTENDENT OF EDUCATION
+STATE TREASURER
+STRAIGHT PARTY
+Sales and Use Tax 1
+Sales and Use Tax 2
+Sam Brick
+Seth Rose
+Sheri Few
+Soil and Water
+Susie Dibble
+Tim Moultrie
+Tom Clements
+Tom E Elliott
+U.S. SENATOR
+Vincent A Sheheen
+W/I CLARENCE LEE
+W/I DON BENNETT
+W/I NATALIE DUPREE
+Yes
+ZNikki R Haley

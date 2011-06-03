@@ -1,0 +1,425 @@
+E&l2a0o7c067F(s0p16.66h3b6T&a00L
+RUN DATE:11/30/10 10:33 AM                         PRECINCT  101 - College                                  ELECTION ID: 40110210
+
+VOTR.    B/I     CANDIDATES RECEIVING A VOTE
+
+5120350    5 *   10 ZNikki R Haley                          GOVERNOR
+5120350    5     15 Ken Ard                                 LIEUTENANT GOVERNOR
+5120350    5     19 Mark Hammond                            SECRETARY OF STATE
+5120350    5     23 Curtis Loftis                           STATE TREASURER
+5120350    5     27 Alan Wilson                             ATTORNEY GENERAL
+5120350    5     31 Richard A Eckstrom                      COMPTROLLER GENERAL
+5120350    5     36 Mick Zais                               STATE SUPERINTENDENT OF EDUCATION
+5120350    5     42 Bob Livingston                          ADJUTANT GENERAL
+5120350    5     45 Hugh Weathers                           COMMISSIONER OF AGRICULTURE
+5120350    5     50 Jim DeMint                              U.S. SENATOR
+5120350    5     61 Jim Pratt                               CON0006 U.S. House of Rep Dist 6
+5120350    5    102 Yes                                     Amendment 1
+5120350    5    105 Yes                                     Amendment 2
+5120350    5    115 No                                      Sales and Use Tax 1
+5120350    5    118 No                                      Sales and Use Tax 2
+5120350    2 *   10 Nikki R Haley                           GOVERNOR
+5120350    2     19 Mark Hammond                            SECRETARY OF STATE
+5120350    2     23 Curtis Loftis                           STATE TREASURER
+5120350    2     28 Matthew Richardson                      ATTORNEY GENERAL
+5120350    2     31 Richard A Eckstrom                      COMPTROLLER GENERAL
+5120350    2     45 Hugh Weathers                           COMMISSIONER OF AGRICULTURE
+5120350    2     50 Jim DeMint                              U.S. SENATOR
+5120350    2     54 Joe Wilson                              CON0002 U.S. House of Rep Dist 2
+5120350    2     65 James Smith                             HOU072 State House of Rep Dist 72
+5120350    2     81 David A Adams                           COUNTY TREASURER
+5120350    2    102 Yes                                     Amendment 1
+5120350    2    105 Yes                                     Amendment 2
+5120350    2    108 Yes                                     Amendment 3
+5120350    2    112 No                                      Amendment 4
+5120350    2    115 No                                      Sales and Use Tax 1
+5120350    2    118 No                                      Sales and Use Tax 2
+5122295   36 *    4 Democratic                              STRAIGHT PARTY
+5122295   36     11 Vincent A Sheheen                       GOVERNOR
+5122295   36     16 Ashley Cooper                           LIEUTENANT GOVERNOR
+5122295   36     20 Marjorie L Johnson                      SECRETARY OF STATE
+5122295   36     28 Matthew Richardson                      ATTORNEY GENERAL
+5122295   36     32 Robert Barber                           COMPTROLLER GENERAL
+5122295   36     38 Frank Holleman                          STATE SUPERINTENDENT OF EDUCATION
+5122295   36     46 Tom E Elliott                           COMMISSIONER OF AGRICULTURE
+5122295   36     51 Alvin M Greene                          U.S. SENATOR
+5122295   36     56 Rob Miller                              CON0002 U.S. House of Rep Dist 2
+5122295   36     92 Paige B George                          HOU078 State House of Rep Dist 78
+5122295   36     98 Dan Johnson                             5TH CIRCUIT SOLICITOR
+5122295   36    101 Amy McCulloch                           PROBATE JUDGE
+5122295   36    104 Paul Brawley                            COUNTY AUDITOR
+5122295   36    107 David A Adams                           COUNTY TREASURER
+5122295   36    163 No                                      Amendment 1
+5122295   36    166 No                                      Amendment 2
+5122295   36    169 No                                      Amendment 3
+5140279    6 *    4 Democratic                              STRAIGHT PARTY
+5140279    6     11 Vincent A Sheheen                       GOVERNOR
+5140279    6     16 Ashley Cooper                           LIEUTENANT GOVERNOR
+5140279    6     20 Marjorie L Johnson                      SECRETARY OF STATE
+5140279    6     28 Matthew Richardson                      ATTORNEY GENERAL
+5140279    6     32 Robert Barber                           COMPTROLLER GENERAL
+5140279    6     38 Frank Holleman                          STATE SUPERINTENDENT OF EDUCATION
+5140279    6     46 Tom E Elliott                           COMMISSIONER OF AGRICULTURE
+5140279    6     51 Alvin M Greene                          U.S. SENATOR
+RUN DATE:11/30/10 10:33 AM                         PRECINCT  101 - College                                  ELECTION ID: 40110210
+
+VOTR.    B/I     CANDIDATES RECEIVING A VOTE
+
+5140279    6     62 James E Jim Clyburn                     CON0006 U.S. House of Rep Dist 6
+5140279    6     69 J Todd Rutherford                       HOU074 State House of Rep Dist 74
+5140279    6     72 Dan Johnson                             5TH CIRCUIT SOLICITOR
+5140279    6     75 Amy McCulloch                           PROBATE JUDGE
+5140279    6     78 Paul Brawley                            COUNTY AUDITOR
+5140279    6     81 David A Adams                           COUNTY TREASURER
+5140279    6     92 Seth Rose                               CCL0005 COUNTY COUNCIL DISTRICT 1
+5140279    6    103 No                                      Amendment 1
+5140279    6    105 Yes                                     Amendment 2
+5140279    6    108 Yes                                     Amendment 3
+5140279    6    111 Yes                                     Amendment 4
+5140279    6    115 No                                      Sales and Use Tax 1
+5140279    6    118 No                                      Sales and Use Tax 2
+5132116    2 *      (NO VOTES CAST)                         (NO VOTES CAST)
+5132116    3 *   10 Nikki R Haley                           GOVERNOR
+5132116    3     15 Ken Ard                                 LIEUTENANT GOVERNOR
+5132116    3     19 Mark Hammond                            SECRETARY OF STATE
+5132116    3     31 Richard A Eckstrom                      COMPTROLLER GENERAL
+5132116    3     36 Mick Zais                               STATE SUPERINTENDENT OF EDUCATION
+5132116    3     45 Hugh Weathers                           COMMISSIONER OF AGRICULTURE
+5132116    3     52 W/I NATALIE DUPREE                      U.S. SENATOR
+5132116    3     55 Jim Pratt                               CON0006 U.S. House of Rep Dist 6
+5132116    3     59 Christopher Jones                       HOU074 State House of Rep Dist 74
+5132116    3     84 Susie Dibble                            SAL0001 RICHLAND COUNTY SCHOOL DISTRICT
+5132116    3     91 No                                      Amendment 1
+5132116    3     94 No                                      Amendment 2
+5132116    3     97 No                                      Amendment 3
+5132116    3    100 No                                      Amendment 4
+5132116    3    103 No                                      Sales and Use Tax 1
+5132116    3    106 No                                      Sales and Use Tax 2
+5140279    4 *    4 Democratic                              STRAIGHT PARTY
+5140279    4     11 Vincent A Sheheen                       GOVERNOR
+5140279    4     16 Ashley Cooper                           LIEUTENANT GOVERNOR
+5140279    4     20 Marjorie L Johnson                      SECRETARY OF STATE
+5140279    4     28 Matthew Richardson                      ATTORNEY GENERAL
+5140279    4     32 Robert Barber                           COMPTROLLER GENERAL
+5140279    4     38 Frank Holleman                          STATE SUPERINTENDENT OF EDUCATION
+5140279    4     46 Tom E Elliott                           COMMISSIONER OF AGRICULTURE
+5140279    4     51 Alvin M Greene                          U.S. SENATOR
+5140279    4     62 James E Jim Clyburn                     CON0006 U.S. House of Rep Dist 6
+5140279    4     65 James Smith                             HOU072 State House of Rep Dist 72
+5140279    4     72 Dan Johnson                             5TH CIRCUIT SOLICITOR
+5140279    4     75 Amy McCulloch                           PROBATE JUDGE
+RUN DATE:11/30/10 10:33 AM                         PRECINCT  101 - College                                  ELECTION ID: 40110210
+
+VOTR.    B/I     CANDIDATES RECEIVING A VOTE
+
+5140279    4     78 Paul Brawley                            COUNTY AUDITOR
+5140279    4     81 David A Adams                           COUNTY TREASURER
+5140279    4     92 Seth Rose                               CCL0005 COUNTY COUNCIL DISTRICT 1
+5140279    4    102 Yes                                     Amendment 1
+5140279    4    105 Yes                                     Amendment 2
+5140279    4    108 Yes                                     Amendment 3
+5140279    4    111 Yes                                     Amendment 4
+5140279    4    114 Yes                                     Sales and Use Tax 1
+5140279    4    117 Yes                                     Sales and Use Tax 2
+- - - - - - - - - - - - - - - - - - - - - - - - - - - -  PRECINCT TOTALS  - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+CAND VOTES     CAND VOTES     CAND VOTES     CAND VOTES     CAND VOTES     CAND VOTES     CAND VOTES     CAND VOTES     CAND VOTES
+
+   1     2        2    60        3     1        4    91        7     5        9     3       10   147       11   385       12     3
+  13     2       15   174       16   356       19   222       20   289       23   310       24    23       26    36       27   151
+  28   348       31   183       32   317       33     2       35    15       36   176       37    22       38   293       39     7
+  40     2       42   309       43    12       45   222       46   279       47     1       49   171       50   208       51   100
+  52    36       54    19       55     1       56    38       60    12       61   166       62   287       63     1       65   218
+  66     2       68    51       69   159       70     1       72   389       73     5       75   402       76     1       78   383
+  79     2       81   390       82     1       84   246       85   203       86     4       89   145       90     1       92   237
+  93     2       95    70       96   258       97     3       99   278      100     4      102   322      103   177      105   404
+ 106   106      108   331      109   163      111   241      112   232      114   332      115   188      117   287      118   191
+RUN DATE:11/30/10 10:33 AM                         PRECINCT  353 - Parkway  #1                               ELECTION ID: 40110210
+
+VOTR.    B/I     CANDIDATES RECEIVING A VOTE
+
+5121072    2 *    2 Republican                              STRAIGHT PARTY
+5121072    2     10 Nikki R Haley                           GOVERNOR
+5121072    2     15 Ken Ard                                 LIEUTENANT GOVERNOR
+5121072    2     19 Mark Hammond                            SECRETARY OF STATE
+5121072    2     23 Curtis Loftis                           STATE TREASURER
+5121072    2     27 Alan Wilson                             ATTORNEY GENERAL
+5121072    2     31 Richard A Eckstrom                      COMPTROLLER GENERAL
+5121072    2     36 Mick Zais                               STATE SUPERINTENDENT OF EDUCATION
+5121072    2     42 Bob Livingston                          ADJUTANT GENERAL
+5121072    2     45 Hugh Weathers                           COMMISSIONER OF AGRICULTURE
+5121072    2     50 Jim DeMint                              U.S. SENATOR
+5121072    2     54 Joe Wilson                              CON0002 U.S. House of Rep Dist 2
+5121072    2     60 Sheri Few                               HOU079 State House of Rep Dist 79
+5121072    2     93 Yes                                     Amendment 1
+5121072    2     96 Yes                                     Amendment 2
+5121072    2     99 Yes                                     Amendment 3
+5121072    2    102 Yes                                     Amendment 4
+5121072    2    106 No                                      Sales and Use Tax 1
+5121072    2    109 No                                      Sales and Use Tax 2
+5121072    2 *   11 Vincent A Sheheen                       GOVERNOR
+5121072    2     16 Ashley Cooper                           LIEUTENANT GOVERNOR
+5121072    2     20 Marjorie L Johnson                      SECRETARY OF STATE
+5121072    2     23 Curtis Loftis                           STATE TREASURER
+5121072    2     28 Matthew Richardson                      ATTORNEY GENERAL
+5121072    2     32 Robert Barber                           COMPTROLLER GENERAL
+5121072    2     38 Frank Holleman                          STATE SUPERINTENDENT OF EDUCATION
+5121072    2     42 Bob Livingston                          ADJUTANT GENERAL
+5121072    2     46 Tom E Elliott                           COMMISSIONER OF AGRICULTURE
+5121072    2     49 Tom Clements                            U.S. SENATOR
+5121072    2     56 Rob Miller                              CON0002 U.S. House of Rep Dist 2
+5121072    2     61 Mia Butler                              HOU079 State House of Rep Dist 79
+5121072    2     64 Dan Johnson                             5TH CIRCUIT SOLICITOR
+5121072    2     67 Amy McCulloch                           PROBATE JUDGE
+5121072    2     70 Paul Brawley                            COUNTY AUDITOR
+5121072    2     73 David A Adams                           COUNTY TREASURER
+5121072    2     77 Hemphill P Pride III                    Soil and Water
+5121072    2     81 Melinda Anderson                        SCH0002 School Board District 2
+5121072    2     83 Bill Flemming                           SCH0002 School Board District 2
+5121072    2     93 Yes                                     Amendment 1
+5121072    2     96 Yes                                     Amendment 2
+5121072    2    100 No                                      Amendment 3
+5121072    2    102 Yes                                     Amendment 4
+5121072    2    105 Yes                                     Sales and Use Tax 1
+5121072    2    108 Yes                                     Sales and Use Tax 2
+5121072    2 *    4 Democratic                              STRAIGHT PARTY
+5121072    2     11 Vincent A Sheheen                       GOVERNOR
+5121072    2     16 Ashley Cooper                           LIEUTENANT GOVERNOR
+5121072    2     20 Marjorie L Johnson                      SECRETARY OF STATE
+5121072    2     28 Matthew Richardson                      ATTORNEY GENERAL
+5121072    2     32 Robert Barber                           COMPTROLLER GENERAL
+5121072    2     38 Frank Holleman                          STATE SUPERINTENDENT OF EDUCATION
+5121072    2     46 Tom E Elliott                           COMMISSIONER OF AGRICULTURE
+5121072    2     49 Tom Clements                            U.S. SENATOR
+5121072    2     56 Rob Miller                              CON0002 U.S. House of Rep Dist 2
+5121072    2     61 Mia Butler                              HOU079 State House of Rep Dist 79
+5121072    2     64 Dan Johnson                             5TH CIRCUIT SOLICITOR
+5121072    2     67 Amy McCulloch                           PROBATE JUDGE
+5121072    2     70 Paul Brawley                            COUNTY AUDITOR
+5121072    2     73 David A Adams                           COUNTY TREASURER
+5121072    2     76 Mark W Huguley                          Soil and Water
+5121072    2     84 James Manning                           SCH0002 School Board District 2
+5121072    2     93 Yes                                     Amendment 1
+5121072    2     96 Yes                                     Amendment 2
+RUN DATE:11/30/10 10:33 AM                         PRECINCT  353 - Parkway #1                               ELECTION ID: 40110210
+
+VOTR.    B/I     CANDIDATES RECEIVING A VOTE
+
+5121072    2    100 No                                      Amendment 3
+5121072    2    103 No                                      Amendment 4
+5121072    2    105 Yes                                     Sales and Use Tax 1
+5121072    2    109 No                                      Sales and Use Tax 2
+5121072    2 *   61 Mia Butler                              HOU079 State House of Rep Dist 79
+5121072    2     96 Yes                                     Amendment 2
+5121072    2    106 No                                      Sales and Use Tax 1
+5121072    2    109 No                                      Sales and Use Tax 2
+- - - - - - - - - - - - - - - - - - - - - - - - - - - -  PRECINCT TOTALS  - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+CAND VOTES     CAND VOTES     CAND VOTES     CAND VOTES     CAND VOTES     CAND VOTES     CAND VOTES     CAND VOTES     CAND VOTES
+
+   1     1        2    76        4   107        7     4        9     1       10   190       11   219       12     1       13     1
+  15   208       16   203       17     1       19   233       20   173       21     1       23   274       24     6       26    10
+  27   199       28   199       29     1       31   211       32   195       33     1       35     4       36   178       37    15
+  38   200       39     8       40     1       42   271       43     2       45   229       46   175       47     1       49    71
+  50   238       51    87       52     6       54   208       55     5       56   193       57     6       58     1       60   285
+  61     6       63   276       64     6       66   276       67     4       69   271       70     4       72   276       73     5
+  75   228       76   144       77     3       80   163       81   120       82   154       83    99       84    70       85   160
+  86   149       87     2       92   345       93    56       95   324       96    77       98   266       99   134      101   262
+ 102   136      104   134      105   270      107   151      108   247
+RUN DATE:11/30/10 10:33 AM                         PRECINCT  383 - Lake Carolina                            ELECTION ID: 40110210
+
+VOTR.    B/I     CANDIDATES RECEIVING A VOTE
+
+5124877    2 *   11 Vincent A Sheheen                       GOVERNOR
+5124877    2     15 Ken Ard                                 LIEUTENANT GOVERNOR
+5124877    2     19 Mark Hammond                            SECRETARY OF STATE
+5124877    2     23 Curtis Loftis                           STATE TREASURER
+5124877    2     27 Alan Wilson                             ATTORNEY GENERAL
+5124877    2     31 Richard A Eckstrom                      COMPTROLLER GENERAL
+5124877    2     36 Mick Zais                               STATE SUPERINTENDENT OF EDUCATION
+5124877    2     42 Bob Livingston                          ADJUTANT GENERAL
+5124877    2     45 Hugh Weathers                           COMMISSIONER OF AGRICULTURE
+5124877    2     50 Jim DeMint                              U.S. SENATOR
+5124877    2     54 Joe Wilson                              CON0002 U.S. House of Rep Dist 2
+5124877    2     61 Mia Butler                              HOU079 State House of Rep Dist 79
+5124877    2     76 Mark W Huguley                          Soil and Water
+5124877    2     77 Hemphill P Pride III                    Soil and Water
+5124877    2     81 Melinda Anderson                        SCH0002 School Board District 2
+5124877    2     86 Dan Neal                                SCH0002 School Board District 2
+5124877    2     93 Yes                                     Amendment 1
+5124877    2     96 Yes                                     Amendment 2
+5124877    2     99 Yes                                     Amendment 3
+5124877    2    102 Yes                                     Amendment 4
+5124877    2    106 No                                      Sales and Use Tax 1
+5124877    2    109 No                                      Sales and Use Tax 2
+5124877    2 *   11 Vincent A Sheheen                       GOVERNOR
+5124877    2     16 Ashley Cooper                           LIEUTENANT GOVERNOR
+5124877    2     20 Marjorie L Johnson                      SECRETARY OF STATE
+5124877    2     24 W/I CLARENCE LEE                        STATE TREASURER
+5124877    2     28 Matthew Richardson                      ATTORNEY GENERAL
+5124877    2     32 Robert Barber                           COMPTROLLER GENERAL
+5124877    2     38 Frank Holleman                          STATE SUPERINTENDENT OF EDUCATION
+5124877    2     46 Tom E Elliott                           COMMISSIONER OF AGRICULTURE
+5124877    2     51 Alvin M Greene                          U.S. SENATOR
+5124877    2     56 Rob Miller                              CON0002 U.S. House of Rep Dist 2
+5124877    2     61 Mia Butler                              HWS073 State House of Rep Dist 73
+5124877    2     64 Dan Johnson                             5TH CIRCUIT SOLICITOR
+5124877    2     67 Amy McCulloch                           PROBATE JUDGE
+5124877    2     70 Paul Brawley                            COUNTY AUDITOR
+5124877    2     73 David A Adams                           COUNTY TREASURER
+5124877    2     76 Mark W Huguley                          Soil and Water
+5124877    2     82 Sam Brick                               SCH0002 School Board District 2
+5124877    2     84 James Manning                           SCH0002 School Board District 2
+5124877    2     85 James A Mobley                          SCH0002 School Board District 2
+5124877    2     87 Barbara Specter                         SCH0002  School Board District 2
+5124877    2     93 Yes                                     Amendment 1
+5124877    2     96 Yes                                     Amendment 2
+5124877    2     99 Yes                                     Amendment 3
+5124877    2    102 Yes                                     Amendment 4
+5124877    2    105 Yes                                     Sales and Use Tax 1
+5124877    2    108 Yes                                     Sales and Use Tax 2
+5124877    2 *   10 Nikki R Haley                           GOVERNOR
+5124877    2     15 Ken Ard                                 LIEUTENANT GOVERNOR
+5124877    2     19 Mark Hammond                            SECRETARY OF STATE
+5124877    2     23 Curtis Loftis                           STATE TREASURER
+5124877    2     27 Alan Wilson                             ATTORNEY GENERAL
+5124877    2     31 Richard A Eckstrom                      COMPTROLLER GENERAL
+5124877    2     37 Tim Moultrie                            STATE SUPERINTENDENT OF EDUCATION
+5124877    2     42 Bob Livingston                          ADJUTANT GENERAL
+5124877    2     45 Hugh Weathers                           COMMISSIONER OF AGRICULTURE
+5124877    2     50 Jim DeMint                              U.S. SENATOR
+5124877    2     54 Joe Wilson                              CON0002 U.S. House of Rep Dist 2
+5124877    2     60 Sheri Few                               HOU073 State House of Rep Dist 73
+5124877    2     76 Mark W Huguley                          Soil and Water
+5124877    2     86 Dan Neal                                SCH0002 School Board District 2
+5124877    2     93 Yes                                     Amendment 1
+RUN DATE:11/30/10 10:33 AM                         PRECINCT  383 - Lake Carolina                            ELECTION ID: 40110210
+
+VOTR.    B/I     CANDIDATES RECEIVING A VOTE
+
+5124877    2     96 Yes                                     Amendment 2
+5124877    2     99 Yes                                     Amendment 3
+5124877    2    102 Yes                                     Amendment 4
+5124877    2    106 No                                      Sales and Use Tax 1
+5124877    2    109 No                                      Sales and Use Tax 2
+- - - - - - - - - - - - - - - - - - - - - - - - - - - -  PRECINCT TOTALS  - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+CAND VOTES     CAND VOTES     CAND VOTES     CAND VOTES     CAND VOTES     CAND VOTES     CAND VOTES     CAND VOTES     CAND VOTES
+
+   1    11        2   121        3     1        4   508        5     3        6     2        7     2        9     8       10   245
+  11   901       12     1       13     2       15   262       16   879       19   317       20   823       23   503       24    20
+  26    19       27   241       28   891       29     1       31   268       32   868       33     1       35    23       36   252
+  37    14       38   847       39    10       40     1       42   485       43    12       45   282       46   841       49   206
+  50   341       51   519       52    29       54   248       55     6       56   896       57     7       58     1       60    10
+  61    75       64   894       65     2       67   968       68     3       70   961       71     3       73   967       74     2
+  76   965       77     3       79   546       80   497       81     3       84    13       85    27       88    21       89    20
+  92   522       93   218       94   321       95   316       96   252       97   247       98   406       99     4      104   917
+ 105   205      107   901      108   225      110   710      111   416      113   703      114   406      116   582      117   548
+ 119   567      120   553
+RUN DATE:11/30/10 10:33 AM                         PRECINCT  750 - Absentee 1                               ELECTION ID: 40110210
+
+VOTR.    B/I     CANDIDATES RECEIVING A VOTE
+
+5121497   11 *   11 Vincent A Sheheen                       GOVERNOR
+5121497   11     16 Ashley Cooper                           LIEUTENANT GOVERNOR
+5121497   11     20 Marjorie L Johnson                      SECRETARY OF STATE
+5121497   11     28 Matthew Richardson                      ATTORNEY GENERAL
+5121497   11     32 Robert Barber                           COMPTROLLER GENERAL
+5121497   11     46 Tom E Elliott                           COMMISSIONER OF AGRICULTURE
+5121497   11     52 W/I DON BENNETT                         U.S. SENATOR
+5121497   11     56 Rob Miller                              CON0002 U.S. House of Rep Dist 2
+5121497   11     98 Dan Johnson                             5TH CIRCUIT SOLICITOR
+5121497   11    101 Amy McCulloch                           PROBATE JUDGE
+5121497   11    104 Paul Brawley                            COUNTY AUDITOR
+5121497   11    107 David A Adams                           COUNTY TREASURER
+5121497   11    162 Yes                                     Amendment 1
+5121497   11    166 No                                      Amendment 2
+5121497   11    169 No                                      Amendment 3
+5121497   11    172 No                                      Amendment 4
+5121497   11    175 No                                      Sales and Use Tax 1
+5121497   11    178 No                                      Sales and Use Tax 2
+5121497   40 *    4 Democratic                              STRAIGHT PARTY
+5121497   40     11 Vincent A Sheheen                       GOVERNOR
+5121497   40     16 Ashley Cooper                           LIEUTENANT GOVERNOR
+5121497   40     20 Marjorie L Johnson                      SECRETARY OF STATE
+5121497   40     28 Matthew Richardson                      ATTORNEY GENERAL
+5121497   40     32 Robert Barber                           COMPTROLLER GENERAL
+5121497   40     38 Frank Holleman                          STATE SUPERINTENDENT OF EDUCATION
+5121497   40     46 Tom E Elliott                           COMMISSIONER OF AGRICULTURE
+5121497   40     51 Alvin M Greene                          U.S. SENATOR
+5121497   40     62 James E Jim Clyburn                     CON0006 U.S. House of Rep Dist 6
+5121497   40     65 Joe Neal                                HOU073 State House of Rep Dist 73
+5121497   40     98 Dan Johnson                             5TH CIRCUIT SOLICITOR
+5121497   40    101 Amy McCulloch                           PROBATE JUDGE
+5121497   40    104 Paul Brawley                            COUNTY AUDITOR
+5121497   40    107 David A Adams                           COUNTY TREASURER
+5121497   40    111 Hemphill  P Pride III                   Soil and Water
+5121497   40    132 Susie Dibble                            SAL0001 RICHLAND COUNTY SCHOOL DISTRICT
+5121497   40    162 Yes                                     Amendment 1
+5121497   40    165 Yes                                     Amendment 2
+5121497   40    168 Yes                                     Amendment 3
+5121497   40    171 Yes                                     Amendment 4
+5121497   40    174 Yes                                     Sales and Use Tax 1
+5121497   40    177 Yes                                     Sales and Use Tax 2
+5121497   38 *   11 Vincent A Sheheen                       GOVERNOR
+5121497   38     16 Ashley Cooper                           LIEUTENANT GOVERNOR
+5121497   38     20 Marjorie L Johnson                      SECRETARY OF STATE
+5121497   38     28 Matthew Richardson                      ATTORNEY GENERAL
+5121497   38     32 Robert Barber                           COMPTROLLER GENERAL
+5121497   38     38 Frank Holleman                          STATE SUPERINTENDENT OF EDUCATION
+5121497   38     46 Tom E Elliott                           COMMISSIONER OF AGRICULTURE
+5121497   38     49 Tom Clements                            U.S. SENATOR
+5121497   38     56 Rob Miller                              CON0002 U.S. House of Rep Dist 2
+5121497   38     98 Dan Johnson                             5TH CIRCUIT SOLICITOR
+5121497   38    101 Amy McCulloch                           PROBATE JUDGE
+5121497   38    104 Paul Brawley                            COUNTY AUDITOR
+5121497   38    107 David A Adams                           COUNTY TREASURER
+5121497   38    111 Hemphill  P Pride III                   Soil and Water
+5121497   38    156 Kim Murphy                              SCH0005 School Board District 5
+5121497   38    157 Bruce Reeves                            SCH0005 School Board District 5
+5121497   38    162 Yes                                     Amendment 1
+5121497   38    165 Yes                                     Amendment 2
+5121497   38    168 Yes                                     Amendment 3
+5121497   38    172 No                                      Amendment 4
+5121497   38    174 Yes                                     Sales and Use Tax 1
+5121497   38    177 Yes                                     Sales and Use Tax 2
+RUN DATE:11/30/10 10:33 AM                         PRECINCT  750 - Absentee 1                               ELECTION ID: 40110210
+
+VOTR.    B/I     CANDIDATES RECEIVING A VOTE
+
+5121497   23 *    4 Democratic                              STRAIGHT PARTY
+5121497   23     11 Vincent A Sheheen                       GOVERNOR
+5121497   23     16 Ashley Cooper                           LIEUTENANT GOVERNOR
+5121497   23     20 Marjorie L Johnson                      SECRETARY OF STATE
+5121497   23     28 Matthew Richardson                      ATTORNEY GENERAL
+5121497   23     32 Robert Barber                           COMPTROLLER GENERAL
+5121497   23     38 Frank Holleman                          STATE SUPERINTENDENT OF EDUCATION
+5121497   23     46 Tom E Elliott                           COMMISSIONER OF AGRICULTURE
+5121497   23     51 Alvin M Greene                          U.S. SENATOR
+5121497   23     62 James E Jim Clyburn                     CON0006 U.S. House of Rep Dist 6
+5121497   23     74 Chris Hart                              HWS073 State House of Rep Dist 73
+5121497   23     98 Dan Johnson                             5TH CIRCUIT SOLICITOR
+5121497   23    101 Amy McCulloch                           PROBATE JUDGE
+5121497   23    104 Paul Brawley                            COUNTY AUDITOR
+5121497   23    107 David A Adams                           COUNTY TREASURER
+5121497   23    111 Hemphill  P Pride III                   Soil and Water
+5121497   23    162 Yes                                     Amendment 1
+5121497   23    165 Yes                                     Amendment 2
+5121497   23    169 No                                      Amendment 3
+5121497   23    171 Yes                                     Amendment 4
+5121497   23    175 No                                      Sales and Use Tax 1
+5121497   23    178 No                                      Sales and Use Tax 2
+RUN DATE:11/30/10 10:33 AM                         PRECINCT  750 - Absentee 1                               ELECTION ID: 40110210
+
+VOTR.    B/I     CANDIDATES RECEIVING A VOTE
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - -  PRECINCT TOTALS  - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+CAND VOTES     CAND VOTES     CAND VOTES     CAND VOTES     CAND VOTES     CAND VOTES     CAND VOTES     CAND VOTES     CAND VOTES
+
+   2     3        4   102        6     1        7     2        9     1       10     4       11   136       12     1       15     6
+  16   132       19     8       20   131       23    30       26     3       27     6       28   131       31     7       32   131
+  35     2       36     2       37     2       38   129       39     3       42    27       45     5       46   132       49    15
+  50    10       51   101       52     2       54     1       55     1       56    86       60     1       61     3       62    49
+  68    11       71    18       78     1       82    27       85    16       93    28       96    28       99   135      102   134
+ 105   134      108   134      111    64      112    51      113     1      116    13      119     8      125     2      126    31
+ 129    13      130    29      133    19      134     7      140    23      141    15      142     6      143    16      144     8
+ 145     6      146    13      164   100      165    38      167   102      168    34      170    69      171    65      173    83
+ 174    49      176    95      177    44      179    85      180    52
+E

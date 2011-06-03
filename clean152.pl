@@ -22,15 +22,16 @@
 # FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER
 # DEALINGS IN THE SOFTWARE.
 
-# a script for rewriting an el152.lst ES&S audit file to make it easier to parse.
+# a script for rewriting an el152.lst ES&S event log file to make it
+# easier to parse.
 
 use strict;
 require utl;
+require rgex;
 
-# Use base class Exporter in order to export methods "myHelp" and "help"
-# so that these can be called and passed around in objects including this
-# package without need of namespace qualifier.
-
+# Use base class Exporter in order to export method "help" so that these
+# can be called and passed around in objects including this package without
+# need of namespace qualifier.
 use base 'Exporter';
 our @EXPORT = ( 'help' );
 
@@ -53,13 +54,15 @@ my $date;
 my $type;
 my $desc;
 
-print OUT "Votronic PEB\tType\tDate\t\tTime\t\tEvent\tDescription\n";
+print OUT "Votronic PEB\tType\tDate\t\tTime\t\tEvent\tDescription\n\n";
 
 while ( <IN> )
 {
+	chomp;
+	
 	# The date record may have two or four digits in the year field.
 	# Both votronic and PEB id in record
-	if ( /(\d{7})\s+(\d+)\s+(\w{3})\s+(\d{2}\/\d{2}\/\d{2,4})\s+(\d\d:\d\d:\d\d)\s+(\d+)\s+(.*)/ )
+	if ( /($rgex::ivo)\s+($rgex::peb)\s+($rgex::pebtype)\s+($rgex::fulldate)\s+($rgex::fulltime)\s+($rgex::eid)\s+(.*)/ )
 	{
 		$vid = $1;
 		$peb = $2;
@@ -71,7 +74,7 @@ while ( <IN> )
 		$desc = utl::clean( $7 );
 	}
 	# Only PEB id in record
-	elsif ( /(\d+)\s+(\w{3})\s+(\d{2}\/\d{2}\/\d{2,4})\s+(\d\d:\d\d:\d\d)\s+(\d+)\s+(.*)/ )
+	elsif ( /($rgex::peb)\s+($rgex::pebtype)\s+($rgex::fulldate)\s+($rgex::fulltime)\s+($rgex::eid)\s+(.*)/ )
 	{
 		$peb = $1;
 		$type = $2;
@@ -82,7 +85,7 @@ while ( <IN> )
 		$desc = utl::clean( $6 );
 	}
 	# Neither votronic or PEB id in record
-	elsif ( /\s+(\w{3})\s+(\d{2}\/\d{2}\/\d{2,4})\s+(\d\d:\d\d:\d\d)\s+(\d+)\s+(.*)/ )
+	elsif ( /\s+($rgex::pebtype)\s+($rgex::fulldate)\s+($rgex::fulltime)\s+($rgex::eid)\s+(.*)/ )
 	{
 		$type = $1;
 		$date = $2;
@@ -92,7 +95,7 @@ while ( <IN> )
  		$desc = utl::clean( $5 );
 	}
 	# Only votronic id in record
-	elsif ( /(\d{7})\s+(\w{3})\s+(\d\d\/\d\d\/\d\d\d\d)\s+(\d\d:\d\d:\d\d)\s+(\d+)\s+(.*)/ )
+	elsif ( /($rgex::ivo)\s+($rgex::pebtype)\s+($rgex::fulldate)\s+($rgex::fulltime)\s+($rgex::eid)\s+(.*)/ )
 	{
 		$vid = $1;
 		$type = $2;
@@ -108,10 +111,7 @@ while ( <IN> )
 		next;
 	}
 
-	if ( $vid =~ /\d{7}/ )
-	{
-		print OUT "$vid\t$peb\t$type\t$date\t$time\t$eid\t$desc\n";
-	}
+	print OUT "$vid\t$peb\t$type\t$date\t$time\t$eid\t$desc\n";
 }
 
 

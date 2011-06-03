@@ -1,0 +1,98 @@
+E&l2a0o7c067F(s0p16.66h3b6T&a00L
+MANUAL CHANGES LOG LISTING                        Richland County
+                                                  General Election
+                                                  November 2, 2010
+RUN DATE:02/09/11 10:49 AM                                                                                  ELECTION ID: 40110210
+
+  PRECINCT                                CANDIDATE                            USER  DATE   TIME    GRP     OLD       NEW
+
+0101 Ward #1                            VOTERS                                       11-02 02:29 pm           0      2323
+
+0310 Caughman Road                      VOTERS                                       11-02 02:29 pm           0      1710
+
+0311 College Place                      BALLOTS CAST - TOTAL                         11-02 10:03 pm   4     590       713
+0311 College Place                      Republican                                   11-02 10:03 pm   4      12        14
+0311 College Place                      Democratic                                   11-02 10:03 pm   4     458       556
+0311 College Place                      Independence                                 11-02 10:03 pm   4       4         5
+0311 College Place                      UNDER VOTES                                  11-02 10:03 pm   4      90       112
+0311 College Place                      Nikki R Haley                                11-02 10:03 pm   4      24        27
+0311 College Place                      Vincent A Sheheen                            11-02 10:03 pm   4     554       672
+0311 College Place                      Morgan Bruce Reeves                          11-02 10:03 pm   4       0         1
+0311 College Place                      UNDER VOTES                                  11-02 10:03 pm   4       6         7
+0311 College Place                      Ken Ard                                      11-02 10:03 pm   4      25        31
+0311 College Place                      Ashley Cooper                                11-02 10:03 pm   4     559       674
+0311 College Place                      Mark W Huguley                               11-02 10:03 pm   4      75       101
+0311 College Place                      Hemphill P Pride III                         11-02 10:03 pm   4     350       422
+0311 College Place                      UNDER VOTES                                  11-02 10:03 pm   4     753       901
+MANUAL CHANGES LOG LISTING                        Richland County
+                                                  General Election
+                                                  November 2, 2010
+RUN DATE:02/09/11 10:49 AM                                                                                  ELECTION ID: 40110210
+
+  PRECINCT                                CANDIDATE                            USER  DATE   TIME    GRP     OLD       NEW
+
+0323 S Forest Acres                     UNDER VOTES                                  11-02 02:29 pm           0      1552
+
+0324 Friarsgate #1                      UNDER VOTES                                  11-02 02:29 pm           0      1947
+
+0750 Absentee 1                         BALLOTS CAST - TOTAL                         11-02 11:10 pm   4    1070      3661
+0750 Absentee 1                         Green                                        11-02 11:10 pm   4       8        33
+0750 Absentee 1                         Republican                                   11-02 11:10 pm   4     173       404
+0750 Absentee 1                         Libertarian                                  11-02 11:10 pm   4       1         3
+0750 Absentee 1                         Democratic                                   11-02 11:10 pm   4     315      1446
+0750 Absentee 1                         United Citizens                              11-02 11:10 pm   4       1         8
+MANUAL CHANGES LOG LISTING                        Richland County
+                                                  General Election
+                                                  November 2, 2010
+RUN DATE:02/09/11 10:49 AM                                                                                  ELECTION ID: 40110210
+
+  PRECINCT                                CANDIDATE                            USER  DATE   TIME    GRP     OLD       NEW
+
+0750 Absentee 1                         Independence                                 11-02 11:10 pm   4      11        27
+0750 Absentee 1                         UNDER VOTES                                  11-02 11:10 pm   4     558      1737
+0750 Absentee 1                         Morgan Bruce Reeves                          11-02 11:10 pm   4       4        27
+0750 Absentee 1                         Nikki R Haley                                11-02 11:10 pm   4     353       886
+0750 Absentee 1                         Vincent A Sheheen                            11-02 11:10 pm   4     695      2681
+0750 Absentee 1                         Morgan Bruce Reeves                          11-02 11:10 pm   4       4        11
+0750 Absentee 1                         WRITE-IN                                     11-02 11:10 pm   4       3        11
+0750 Absentee 1                         UNDER VOTES                                  11-02 11:10 pm   4      11        45
+0750 Absentee 1                         Ken Ard                                      11-02 11:10 pm   4     407      1042
+0750 Absentee 1                         Ashley Cooper                                11-02 11:10 pm   4     641      2537
+0750 Absentee 1                         UNDER VOTES                                  11-02 11:10 pm   4     308       785
+0750 Absentee 1                         Mark W Huguley                               11-02 11:10 pm   4     395      1265
+0750 Absentee 1                         Hemphill P Pride III                         11-02 11:10 pm   4     449      1606
+0750 Absentee 1                         WRITE-IN                                     11-02 11:10 pm   4       4        15
+0750 Absentee 1                         UNDER VOTES                                  11-02 11:10 pm   4    1292      4436
+MANUAL CHANGES LOG LISTING                        Richland County
+                                                  General Election
+                                                  November 2, 2010
+RUN DATE:02/09/11 10:49 AM                                                                                  ELECTION ID: 40110210
+
+  PRECINCT                                CANDIDATE                            USER  DATE   TIME    GRP     OLD       NEW
+
+0750 Absentee 1                         UNDER VOTES                                  11-02 10:26 pm   4       0       515
+0750 Absentee 1                         Leslie Minerd                                11-02 10:26 pm   4       0        11
+0750 Absentee 1                         Leslie Minerd                                11-03 12:53 am   3      28        32
+0750 Absentee 1                         Alan Wilson                                  11-02 10:26 pm   4       0       377
+0750 Absentee 1                         Alan Wilson                                  11-03 12:53 am   3    1187      1257
+0750 Absentee 1                         Matthew Richardson                           11-02 10:26 pm   4       0       661
+0750 Absentee 1                         Matthew Richardson                           11-03 12:53 am   3     937      1002
+0750 Absentee 1                         UNDER VOTES                                  11-02 10:26 pm   4       0        21
+0750 Absentee 1                         Richard A Eckstrom                           11-02 10:26 pm   4       0       407
+0750 Absentee 1                         Richard A Eckstrom                           11-03 12:53 am   3    1237      1310
+0750 Absentee 1                         Robert Barber                                11-02 10:26 pm   4       0       640
+0750 Absentee 1                         Robert Barber                                11-03 12:53 am   3     894       958
+0750 Absentee 1                         WRITE-IN                                     11-02 10:26 pm   4       0         1
+0750 Absentee 1                         UNDER VOTES                                  11-02 10:26 pm   4       0        22
+0750 Absentee 1                         Doretha A Bull                               11-02 10:26 pm   4       0        15
+0750 Absentee 1                         Doretha A Bull                               11-03 12:53 am   3      19        22
+0750 Absentee 1                         Mick Zais                                    11-02 10:26 pm   4       0       413
+0750 Absentee 1                         Mick Zais                                    11-03 12:53 am   3    1298      1364
+0750 Absentee 1                         Tim Moultrie                                 11-02 10:26 pm   4       0        22
+0750 Absentee 1                         Tim Moultrie                                 11-03 12:53 am   3      37        39
+0750 Absentee 1                         Frank Holleman                               11-02 10:26 pm   4       0       598
+0750 Absentee 1                         Frank Holleman                               11-03 12:53 am   3     789       852
+0750 Absentee 1                         Tony Fayyazi                                 11-02 10:26 pm   4       0         4
+0750 Absentee 1                         Tony Fayyazi                                 11-03 12:53 am   3       7        11
+0750 Absentee 1                         UNDER VOTES                                  11-02 10:26 pm   4       0        18
+E

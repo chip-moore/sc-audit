@@ -1,0 +1,444 @@
+E&l2a0o7c067F(s0p16.66h3b6T&a00L
+RUN DATE:11/19/10 01:19 PM                                                  ELECTION ID: 40110210
+
+Votronic  PEB#   Type    Date       Time     Event
+
+5101366  153199  SUP   10/18/2010 15:01:18   0000601 Zero terminal config data
+                 SUP   10/18/2010 15:01:20   0001607 Clear-n-test term flash successful
+                 SUP   10/18/2010 15:01:20   0000305 Write PEB passwords to terminal
+                 SUP   10/18/2010 15:04:58   0001633 Terminal shutdown
+         157721  SUP   11/02/2010 05:28:30   0002808 Terminal - opening state
+                 SUP   11/02/2010 05:29:18   0001303 Transfer PEB vote data to terminal
+                 SUP   11/02/2010 05:29:26   0002804 Terminal - blank state
+                 SUP   11/02/2010 05:29:26   0002802 Terminal - open state
+                 SUP   11/02/2010 05:29:26   0002808 Terminal - opening state
+                 SUP   11/02/2010 05:29:26   0001319 Update PEB's terminal record
+                 SUP   11/02/2010 05:29:26   0001303 Transfer PEB vote data to terminal
+                 SUP   11/02/2010 05:29:30   0001210 Transfer terminal vote data to PEB
+                 SUP   11/02/2010 05:29:59   0001211 Terminal votes to PEB successful
+                 SUP   11/02/2010 05:30:11   0002802 Terminal - open state
+                 SUP   11/02/2010 05:30:11   0001672 Terminal Opened
+                 SUP   11/02/2010 05:32:58   0001633 Terminal shutdown
+                 SUP   11/02/2010 05:34:58   0002400 PEB access failed
+                 SUP   11/02/2010 05:34:58   0000706 Failed to retrieve EQC from PEB
+                 SUP   11/02/2010 05:34:58   0001635 Terminal shutdown - IPS exit
+                 SUP   11/02/2010 05:45:07   0001518 Vote cancelled - terminal problem
+                 SUP   11/02/2010 06:02:25   0001510 Vote cast by voter
+         153467  SUP   11/02/2010 06:08:46   0001510 Vote cast by voter
+         153112  SUP   11/02/2010 06:12:00   0001510 Vote cast by voter
+                 SUP   11/02/2010 06:16:17   0001510 Vote cast by voter
+                 SUP   11/02/2010 06:18:58   0001510 Vote cast by voter
+                 SUP   11/02/2010 06:25:16   0001510 Vote cast by voter
+                 SUP   11/02/2010 06:28:59   0001510 Vote cast by voter
+         157721  SUP   11/02/2010 06:29:35   0001649 Term - entered service menus
+                 SUP   11/02/2010 06:29:47   0000107 Select: Election Services Menu
+                 SUP   11/02/2010 06:29:47   0000301 Start override password procedure
+                 SUP   11/02/2010 06:30:07   0001317 Transfer PEB term data to terminal
+                 SUP   11/02/2010 06:30:46   0000109 Select: Print Polling Place Zero Tape
+                 SUP   11/02/2010 06:30:54   0002010 Print cumulative zeros tape
+                 SUP   11/02/2010 06:31:23   0001303 Transfer PEB vote data to terminal
+                 SUP   11/02/2010 06:33:03   0000114 Select: Setup & Configuration Menu
+                 SUP   11/02/2010 08:10:06   0001510 Vote cast by voter
+                 SUP   11/02/2010 08:13:33   0001510 Vote cast by voter
+         153112  SUP   11/02/2010 08:17:25   0001510 Vote cast by voter
+         153467  SUP   11/02/2010 08:20:28   0001510 Vote cast by voter
+         153112  SUP   11/02/2010 08:27:13   0001510 Vote cast by voter
+         153467  SUP   11/02/2010 08:31:01   0001510 Vote cast by voter
+RUN DATE:11/19/10 01:19 PM                                                  ELECTION ID: 40110210
+
+Votronic  PEB#   Type    Date       Time     Event
+
+5101366  153467  SUP   11/02/2010 08:34:18   0001510 Vote cast by voter
+         153112  SUP   11/02/2010 08:39:00   0001510 Vote cast by voter
+                 SUP   11/02/2010 08:46:17   0001510 Vote cast by voter
+                 SUP   11/02/2010 08:50:58   0001510 Vote cast by voter
+                 SUP   11/02/2010 08:56:24   0001510 Vote cast by voter
+                 SUP   11/02/2010 09:00:36   0001510 Vote cast by voter
+                 SUP   11/02/2010 09:06:00   0001510 Vote cast by voter
+         157721  SUP   11/02/2010 19:08:41   0002810 Terminal - time to close voting
+                 SUP   11/02/2010 19:10:21   0001626 Close terminal
+                 SUP   11/02/2010 19:10:21   0002809 Terminal - closing state
+                 SUP   11/02/2010 19:10:21   0001221 Collect terminal vote data to PEB
+                 SUP   11/02/2010 19:10:48   0001303 Transfer PEB vote data to terminal
+                 SUP   11/02/2010 19:10:55   0001208 Merge terminal & PEB vote data
+                 SUP   11/02/2010 19:10:58   0002802 Terminal - open state
+                 SUP   11/02/2010 19:10:58   0002803 Terminal - closed state
+                 SUP   11/02/2010 19:10:58   0002809 Terminal - closing state
+                 SUP   11/02/2010 19:11:01   0001210 Transfer terminal vote data to PEB
+                 SUP   11/02/2010 19:11:29   0001211 Terminal votes to PEB successful
+                 SUP   11/02/2010 19:11:29   0001214 Transfer terminal writein data to PEB
+                 SUP   11/02/2010 19:11:42   0001215 Terminal write-in data to PEB successful
+                 SUP   11/02/2010 19:11:42   0001222 Terminal vote collection successful
+                 SUP   11/02/2010 19:11:42   0002803 Terminal - closed state
+                 SUP   11/02/2010 19:11:42   0001673 Terminal Closed
+                 SUP   11/02/2010 19:11:49   0001401 Copy terminal flash audit data to CF
+                 SUP   11/02/2010 19:11:49   0001400 Verify terminal flash audit data
+                 SUP   11/02/2010 19:11:57   0001416 Copy audit data from TF 1 to CF
+
+5105148  152724  SUP   10/18/2010 13:15:52   0000601 Zero terminal config data
+                 SUP   10/18/2010 13:15:53   0001607 Clear-n-test term flash successful
+                 SUP   10/18/2010 13:15:54   0000305 Write PEB passwords to terminal
+                 SUP   10/18/2010 13:16:10   0001633 Terminal shutdown
+         152849  SUP   11/02/2010 05:33:49   0002808 Terminal - opening state
+                 SUP   11/02/2010 05:34:40   0001303 Transfer PEB vote data to terminal
+                 SUP   11/02/2010 05:34:48   0002804 Terminal - blank state
+                 SUP   11/02/2010 05:34:48   0002802 Terminal - open state
+                 SUP   11/02/2010 05:34:48   0002808 Terminal - opening state
+                 SUP   11/02/2010 05:34:48   0001319 Update PEB's terminal record
+                 SUP   11/02/2010 05:34:48   0001303 Transfer PEB vote data to terminal
+                 SUP   11/02/2010 05:34:52   0001210 Transfer terminal vote data to PEB
+                 SUP   11/02/2010 05:35:19   0001211 Terminal votes to PEB successful
+                 SUP   11/02/2010 05:35:30   0002802 Terminal - open state
+                 SUP   11/02/2010 05:35:30   0001672 Terminal Opened
+                 SUP   11/02/2010 05:35:48   0001633 Terminal shutdown
+         153194  SUP   11/02/2010 06:04:06   0001510 Vote cast by voter
+                 SUP   11/02/2010 06:07:17   0001510 Vote cast by voter
+         153285  SUP   11/02/2010 06:09:30   0001510 Vote cast by voter
+                 SUP   11/02/2010 06:15:18   0001510 Vote cast by voter
+                 SUP   11/02/2010 06:18:36   0001510 Vote cast by voter
+                 SUP   11/02/2010 06:22:18   0001510 Vote cast by voter
+                 SUP   11/02/2010 06:26:25   0001510 Vote cast by voter
+                 SUP   11/02/2010 06:31:10   0001510 Vote cast by voter
+                 SUP   11/02/2010 06:35:20   0001510 Vote cast by voter
+                 SUP   11/02/2010 06:40:00   0001510 Vote cast by voter
+                 SUP   11/02/2010 06:45:02   0001510 Vote cast by voter
+RUN DATE:11/19/10 01:19 PM                                                  ELECTION ID: 40110210
+
+Votronic  PEB#   Type    Date       Time     Event
+
+5105148  153285  SUP   11/02/2010 06:48:37   0001510 Vote cast by voter
+                 SUP   11/02/2010 06:51:35   0001510 Vote cast by voter
+                 SUP   11/02/2010 06:55:57   0001510 Vote cast by voter
+                 SUP   11/02/2010 06:59:37   0001510 Vote cast by voter
+         153285  SUP   11/02/2010 18:59:27   0001510 Vote cast by voter
+         153194  SUP   11/02/2010 19:04:05   0001510 Vote cast by voter
+         152849  SUP   11/02/2010 19:17:37   0002810 Terminal - time to close voting
+                 SUP   11/02/2010 19:17:48   0001626 Close terminal
+                 SUP   11/02/2010 19:17:48   0002809 Terminal - closing state
+                 SUP   11/02/2010 19:17:48   0001221 Collect terminal vote data to PEB
+                 SUP   11/02/2010 19:18:15   0001303 Transfer PEB vote data to terminal
+                 SUP   11/02/2010 19:18:23   0001208 Merge terminal & PEB vote data
+                 SUP   11/02/2010 19:18:25   0002802 Terminal - open state
+                 SUP   11/02/2010 19:18:25   0002803 Terminal - closed state
+                 SUP   11/02/2010 19:18:25   0002809 Terminal - closing state
+                 SUP   11/02/2010 19:18:29   0001210 Transfer terminal vote data to PEB
+                 SUP   11/02/2010 19:18:54   0001211 Terminal votes to PEB successful
+                 SUP   11/02/2010 19:18:54   0001214 Transfer terminal writein data to PEB
+                 SUP   11/02/2010 19:19:07   0001215 Terminal write-in data to PEB successful
+                 SUP   11/02/2010 19:19:07   0001222 Terminal vote collection successful
+                 SUP   11/02/2010 19:19:07   0002803 Terminal - closed state
+                 SUP   11/02/2010 19:19:07   0001673 Terminal Closed
+                 SUP   11/02/2010 19:19:11   0001401 Copy terminal flash audit data to CF
+                 SUP   11/02/2010 19:19:11   0001400 Verify terminal flash audit data
+                 SUP   11/02/2010 19:19:19   0001416 Copy audit data from TF 1 to CF
+
+5109676  153199  SUP   10/15/2010 16:09:19   0000601 Zero terminal config data
+                 SUP   10/15/2010 16:09:20   0001607 Clear-n-test term flash successful
+                 SUP   10/15/2010 16:09:20   0000305 Write PEB passwords to terminal
+                 SUP   10/15/2010 16:10:15   0001633 Terminal shutdown
+         157419  SUP   11/02/2010 05:39:50   0002808 Terminal - opening state
+                 SUP   11/02/2010 05:40:39   0001303 Transfer PEB vote data to terminal
+                 SUP   11/02/2010 05:40:44   0002804 Terminal - blank state
+                 SUP   11/02/2010 05:40:45   0002802 Terminal - open state
+                 SUP   11/02/2010 05:40:45   0002808 Terminal - opening state
+                 SUP   11/02/2010 05:40:45   0001319 Update PEB's terminal record
+                 SUP   11/02/2010 05:40:45   0001303 Transfer PEB vote data to terminal
+                 SUP   11/02/2010 05:40:49   0001210 Transfer terminal vote data to PEB
+                 SUP   11/02/2010 05:41:13   0001211 Terminal votes to PEB successful
+                 SUP   11/02/2010 05:41:25   0002802 Terminal - open state
+                 SUP   11/02/2010 05:41:25   0001672 Terminal Opened
+                 SUP   11/02/2010 05:41:30   0001633 Terminal shutdown
+         152811  SUP   11/02/2010 06:08:34   0001510 Vote cast by voter
+                 SUP   11/02/2010 06:12:54   0001510 Vote cast by voter
+                 SUP   11/02/2010 06:17:30   0001510 Vote cast by voter
+                 SUP   11/02/2010 06:20:34   0001510 Vote cast by voter
+                 SUP   11/02/2010 06:27:52   0001510 Vote cast by voter
+         152659  SUP   11/02/2010 06:31:07   0001510 Vote cast by voter
+         152811  SUP   11/02/2010 13:04:54   0001510 Vote cast by voter
+                 SUP   11/02/2010 13:09:23   0001510 Vote cast by voter
+         152659  SUP   11/02/2010 13:11:06   0001649 Term - entered service menus
+                 SUP   11/02/2010 13:11:37   0000169 Select: Calibrate Screen
+                 SUP   11/02/2010 13:11:44   0001654 Cancel terminal screen calibration
+                 SUP   11/02/2010 13:11:50   0001650 Term - exited service menus
+                 SUP   11/02/2010 13:11:57   0001633 Terminal shutdown
+         157364  SUP   11/02/2010 18:03:59   0001510 Vote cast by voter
+                 SUP   11/02/2010 18:07:10   0001510 Vote cast by voter
+         152659  SUP   11/02/2010 18:11:43   0001510 Vote cast by voter
+         157364  SUP   11/02/2010 18:18:40   0001519 Vote cancelled - other reason
+         152659  SUP   11/02/2010 18:27:43   0001514 Vote cancelled - voter left after ballot
+                 SUP   11/02/2010 18:28:12   0001649 Term - entered service menus
+                 SUP   11/02/2010 18:28:18   0000114 Select: Setup & Configuration Menu
+                 SUP   11/02/2010 18:28:18   0000301 Start override password procedure
+                 SUP   11/02/2010 18:29:02   0000116 Select: Configure Terminal
+                 SUP   11/02/2010 18:29:05   0000117 Select: Set Time and Date
+                 SUP   11/02/2010 19:29:05   0001656 Set terminal date and/or time
+                 SUP   11/02/2010 19:29:36   0001650 Term - exited service menus
+                 SUP   11/02/2010 19:29:37   0001633 Terminal shutdown
+         157419  SUP   11/02/2010 19:31:35   0002810 Terminal - time to close voting
+                 SUP   11/02/2010 19:31:39   0001626 Close terminal
+                 SUP   11/02/2010 19:31:40   0002809 Terminal - closing state
+                 SUP   11/02/2010 19:31:40   0001221 Collect terminal vote data to PEB
+                 SUP   11/02/2010 19:32:09   0001303 Transfer PEB vote data to terminal
+                 SUP   11/02/2010 19:32:16   0001208 Merge terminal & PEB vote data
+                 SUP   11/02/2010 19:32:19   0002802 Terminal - open state
+                 SUP   11/02/2010 19:32:19   0002803 Terminal - closed state
+                 SUP   11/02/2010 19:32:19   0002809 Terminal - closing state
+                 SUP   11/02/2010 19:32:22   0001210 Transfer terminal vote data to PEB
+                 SUP   11/02/2010 19:32:50   0001211 Terminal votes to PEB successful
+                 SUP   11/02/2010 19:32:50   0001214 Transfer terminal writein data to PEB
+                 SUP   11/02/2010 19:33:10   0001215 Terminal write-in data to PEB successful
+                 SUP   11/02/2010 19:33:10   0001222 Terminal vote collection successful
+                 SUP   11/02/2010 19:33:10   0002803 Terminal - closed state
+RUN DATE:11/19/10 01:19 PM                                                  ELECTION ID: 40110210
+
+Votronic  PEB#   Type    Date       Time     Event
+
+5109676  157419  SUP   11/02/2010 19:33:10   0001673 Terminal Closed
+                 SUP   11/02/2010 19:33:14   0001401 Copy terminal flash audit data to CF
+                 SUP   11/02/2010 19:33:14   0001400 Verify terminal flash audit data
+                 SUP   11/02/2010 19:33:22   0001416 Copy audit data from TF 1 to CF
+5119837  152724  SUP   10/20/2010 09:51:49   0000601 Zero terminal config data
+                 SUP   10/20/2010 09:51:51   0001607 Clear-n-test term flash successful
+                 SUP   10/20/2010 09:51:51   0000305 Write PEB passwords to terminal
+                 SUP   10/20/2010 09:52:48   0001633 Terminal shutdown
+         156921  SUP   11/02/2010 06:09:36   0002808 Terminal - opening state
+                 SUP   11/02/2010 06:10:40   0001303 Transfer PEB vote data to terminal
+                 SUP   11/02/2010 06:10:40   0002400 PEB access failed
+                 SUP   11/02/2010 06:10:40   0001702 Invalid PEB for procedure
+                 SUP   11/02/2010 06:10:40   0001634 Terminal shutdown - DIE exit
+         0       UNK   11/02/2010 06:10:50   0002804 Terminal - blank state
+                 UNK   11/02/2010 06:11:00   0001613 Opening terminal cancelled by user
+                 UNK   11/02/2010 06:11:00   0001633 Terminal shutdown
+         157320  SUP   11/02/2010 06:14:11   0002808 Terminal - opening state
+                 SUP   11/02/2010 06:14:50   0001303 Transfer PEB vote data to terminal
+                 SUP   11/02/2010 06:14:56   0002804 Terminal - blank state
+                 SUP   11/02/2010 06:14:56   0002802 Terminal - open state
+                 SUP   11/02/2010 06:14:56   0002808 Terminal - opening state
+                 SUP   11/02/2010 06:14:56   0001319 Update PEB's terminal record
+                 SUP   11/02/2010 06:14:56   0001303 Transfer PEB vote data to terminal
+                 SUP   11/02/2010 06:15:04   0001210 Transfer terminal vote data to PEB
+                 SUP   11/02/2010 06:15:29   0001211 Terminal votes to PEB successful
+                 SUP   11/02/2010 06:15:40   0002802 Terminal - open state
+                 SUP   11/02/2010 06:15:40   0001672 Terminal Opened
+                 SUP   11/02/2010 06:15:53   0001633 Terminal shutdown
+                 SUP   11/02/2010 06:16:20   0001633 Terminal shutdown
+                 SUP   11/02/2010 06:17:51   0001633 Terminal shutdown
+                 SUP   11/02/2010 06:18:11   0001649 Term - entered service menus
+                 SUP   11/02/2010 06:19:20   0000107 Select: Election Services Menu
+                 SUP   11/02/2010 06:19:20   0000301 Start override password procedure
+                 SUP   11/02/2010 06:20:16   0001317 Transfer PEB term data to terminal
+                 SUP   11/02/2010 06:20:33   0000109 Select: Print Polling Place Zero Tape
+                 SUP   11/02/2010 06:20:37   0002010 Print cumulative zeros tape
+                 SUP   11/02/2010 06:21:07   0001303 Transfer PEB vote data to terminal
+                 SUP   11/02/2010 06:26:17   0000109 Select: Print Polling Place Zero Tape
+                 SUP   11/02/2010 06:26:21   0002010 Print cumulative zeros tape
+                 SUP   11/02/2010 06:26:55   0001303 Transfer PEB vote data to terminal
+                 SUP   11/02/2010 06:28:36   0001718 PEB pulled during PEB block read
+                 SUP   11/02/2010 06:31:15   0000169 Select: Calibrate Screen
+                 SUP   11/02/2010 06:31:46   0001652 Terminal touch-screen test
+                 SUP   11/02/2010 06:33:01   0001652 Terminal touch-screen test
+                 SUP   11/02/2010 06:34:09   0001652 Terminal touch-screen test
+                 SUP   11/02/2010 06:34:31   0001655 Terminal touch-screen recalibrated
+                 SUP   11/02/2010 06:34:31   0001650 Term - exited service menus
+                 SUP   11/02/2010 06:34:45   0001650 Term - exited service menus
+                 SUP   11/02/2010 06:34:49   0001633 Terminal shutdown
+         156921  SUP   11/02/2010 06:42:29   0001510 Vote cast by voter
+                 SUP   11/02/2010 06:45:52   0001510 Vote cast by voter
+         156163  SUP   11/02/2010 06:51:23   0001510 Vote cast by voter
+         153428  SUP   11/02/2010 06:57:30   0001510 Vote cast by voter
+         156163  SUP   11/02/2010 07:02:46   0001510 Vote cast by voter
+         153428  SUP   11/02/2010 07:06:32   0001510 Vote cast by voter
+         156163  SUP   11/02/2010 07:09:29   0001510 Vote cast by voter
+         153428  SUP   11/02/2010 07:13:52   0001510 Vote cast by voter
+         156163  SUP   11/02/2010 07:19:40   0001510 Vote cast by voter
+                 SUP   11/02/2010 07:23:07   0001510 Vote cast by voter
+         153428  SUP   11/02/2010 07:26:38   0001510 Vote cast by voter
+         156163  SUP   11/02/2010 07:32:51   0001510 Vote cast by voter
+         153428  SUP   11/02/2010 07:36:18   0001510 Vote cast by voter
+         156163  SUP   11/02/2010 07:40:15   0001510 Vote cast by voter
+RUN DATE:11/19/10 01:19 PM                                                  ELECTION ID: 40110210
+
+Votronic  PEB#   Type    Date       Time     Event
+
+5119837  156163  SUP   11/02/2010 07:44:51   0001510 Vote cast by voter
+                 SUP   11/02/2010 07:49:31   0001510 Vote cast by voter
+                 SUP   11/02/2010 07:54:12   0001510 Vote cast by voter
+                 SUP   11/02/2010 07:58:40   0001510 Vote cast by voter
+                 SUP   11/02/2010 08:19:33   0001510 Vote cast by voter
+                 SUP   11/02/2010 08:22:45   0001510 Vote cast by voter
+                 SUP   11/02/2010 08:26:46   0001510 Vote cast by voter
+         0       UNK   11/02/2010 08:26:53   0002400 PEB access failed
+                 UNK   11/02/2010 08:26:53   0002400 PEB access failed
+                 UNK   11/02/2010 08:27:05   0002400 PEB access failed
+                 UNK   11/02/2010 08:27:05   0000706 Failed to retrieve EQC from PEB
+                 UNK   11/02/2010 08:27:05   0001635 Terminal shutdown - IPS exit
+         156163  SUP   11/02/2010 08:27:42   0002400 PEB access failed
+                 SUP   11/02/2010 08:27:42   0000706 Failed to retrieve EQC from PEB
+                 SUP   11/02/2010 08:27:42   0001635 Terminal shutdown - IPS exit
+                 SUP   11/02/2010 08:30:14   0001510 Vote cast by voter
+         0       UNK   11/02/2010 08:30:22   0002400 PEB access failed
+                 UNK   11/02/2010 08:30:22   0002400 PEB access failed
+                 UNK   11/02/2010 08:30:34   0002400 PEB access failed
+                 UNK   11/02/2010 08:30:34   0000706 Failed to retrieve EQC from PEB
+                 UNK   11/02/2010 08:30:34   0001635 Terminal shutdown - IPS exit
+         156163  SUP   11/02/2010 08:31:11   0001721 PEB pulled while getting PEB type
+                 SUP   11/02/2010 08:31:11   0002405 Failed to get PEB type
+                 SUP   11/02/2010 08:31:11   0002400 PEB access failed
+                 SUP   11/02/2010 08:31:11   0000706 Failed to retrieve EQC from PEB
+                 SUP   11/02/2010 08:31:11   0001635 Terminal shutdown - IPS exit
+                 SUP   11/02/2010 08:33:19   0001510 Vote cast by voter
+                 SUP   11/02/2010 08:38:27   0002400 PEB access failed
+                 SUP   11/02/2010 08:38:27   0000706 Failed to retrieve EQC from PEB
+                 SUP   11/02/2010 08:38:27   0001635 Terminal shutdown - IPS exit
+                 SUP   11/02/2010 08:40:41   0001510 Vote cast by voter
+5119837  0       UNK   11/02/2010 14:31:15   0002400 PEB access failed
+                 UNK   11/02/2010 14:31:15   0002400 PEB access failed
+                 UNK   11/02/2010 14:31:27   0002400 PEB access failed
+                 UNK   11/02/2010 14:31:27   0000706 Failed to retrieve EQC from PEB
+                 UNK   11/02/2010 14:31:27   0001635 Terminal shutdown - IPS exit
+         153428  SUP   11/02/2010 14:38:50   0001510 Vote cast by voter
+         156094  SUP   11/02/2010 14:43:03   0001510 Vote cast by voter
+         0       UNK   11/02/2010 14:43:10   0002400 PEB access failed
+                 UNK   11/02/2010 14:43:10   0002400 PEB access failed
+                 UNK   11/02/2010 14:43:22   0002400 PEB access failed
+                 UNK   11/02/2010 14:43:22   0000706 Failed to retrieve EQC from PEB
+                 UNK   11/02/2010 14:43:22   0001635 Terminal shutdown - IPS exit
+         156094  SUP   11/02/2010 14:49:09   0001510 Vote cast by voter
+                 SUP   11/02/2010 14:58:57   0001510 Vote cast by voter
+         153323  SUP   11/02/2010 18:40:39   0001510 Vote cast by voter
+                 SUP   11/02/2010 18:46:31   0001510 Vote cast by voter
+         0       UNK   11/02/2010 18:46:38   0002400 PEB access failed
+                 UNK   11/02/2010 18:46:38   0002400 PEB access failed
+                 UNK   11/02/2010 18:46:50   0002400 PEB access failed
+                 UNK   11/02/2010 18:46:50   0000706 Failed to retrieve EQC from PEB
+                 UNK   11/02/2010 18:46:50   0001635 Terminal shutdown - IPS exit
+         153323  SUP   11/02/2010 18:50:29   0001510 Vote cast by voter
+                 SUP   11/02/2010 18:54:11   0001510 Vote cast by voter
+         0       UNK   11/02/2010 18:54:18   0002400 PEB access failed
+                 UNK   11/02/2010 18:54:18   0002400 PEB access failed
+         153323  SUP   11/02/2010 19:00:07   0001510 Vote cast by voter
+                 SUP   11/02/2010 19:00:36   0002810 Terminal - time to close voting
+                 SUP   11/02/2010 19:05:33   0001510 Vote cast by voter
+RUN DATE:11/19/10 01:19 PM                                                  ELECTION ID: 40110210
+
+Votronic  PEB#   Type    Date       Time     Event
+
+5119837  0       UNK   11/02/2010 19:05:40   0002400 PEB access failed
+                 UNK   11/02/2010 19:05:40   0002400 PEB access failed
+                 UNK   11/02/2010 19:05:52   0002400 PEB access failed
+                 UNK   11/02/2010 19:05:52   0000706 Failed to retrieve EQC from PEB
+                 UNK   11/02/2010 19:05:52   0001635 Terminal shutdown - IPS exit
+         157320  SUP   11/02/2010 20:04:52   0002810 Terminal - time to close voting
+                 SUP   11/02/2010 20:04:54   0001626 Close terminal
+                 SUP   11/02/2010 20:04:54   0002809 Terminal - closing state
+                 SUP   11/02/2010 20:04:54   0001221 Collect terminal vote data to PEB
+                 SUP   11/02/2010 20:05:28   0001303 Transfer PEB vote data to terminal
+                 SUP   11/02/2010 20:05:38   0001208 Merge terminal & PEB vote data
+                 SUP   11/02/2010 20:05:40   0002802 Terminal - open state
+                 SUP   11/02/2010 20:05:40   0002803 Terminal - closed state
+                 SUP   11/02/2010 20:05:40   0002809 Terminal - closing state
+                 SUP   11/02/2010 20:05:44   0001210 Transfer terminal vote data to PEB
+                 SUP   11/02/2010 20:06:10   0001211 Terminal votes to PEB successful
+                 SUP   11/02/2010 20:06:10   0001214 Transfer terminal writein data to PEB
+                 SUP   11/02/2010 20:06:22   0001215 Terminal write-in data to PEB successful
+                 SUP   11/02/2010 20:06:22   0001222 Terminal vote collection successful
+                 SUP   11/02/2010 20:06:22   0002803 Terminal - closed state
+                 SUP   11/02/2010 20:06:22   0001673 Terminal Closed
+                 SUP   11/02/2010 20:06:29   0001401 Copy terminal flash audit data to CF
+                 SUP   11/02/2010 20:06:29   0001400 Verify terminal flash audit data
+                 SUP   11/02/2010 20:06:37   0001416 Copy audit data from TF 1 to CF
+5134787  153053  SUP   00/00/00   00:00:00   0000601 Zero terminal config data
+                 SUP   00/00/00   00:00:00   0001607 Clear-n-test term flash successful
+                 SUP   00/00/00   00:00:00   0000305 Write PEB passwords to terminal
+                 SUP   00/00/00   00:00:00   0001633 Terminal shutdown
+         152594  SUP   00/00/00   00:00:00   0002808 Terminal - opening state
+                 SUP   00/00/00   00:00:00   0001303 Transfer PEB vote data to terminal
+                 SUP   00/00/00   00:00:00   0002804 Terminal - blank state
+                 SUP   00/00/00   00:00:00   0002802 Terminal - open state
+                 SUP   00/00/00   00:00:00   0002808 Terminal - opening state
+                 SUP   00/00/00   00:00:00   0001319 Update PEB's terminal record
+                 SUP   00/00/00   00:00:00   0001303 Transfer PEB vote data to terminal
+                 SUP   00/00/00   00:00:00   0001210 Transfer terminal vote data to PEB
+                 SUP   00/00/00   00:00:00   0001211 Terminal votes to PEB successful
+                 SUP   00/00/00   00:00:00   0002802 Terminal - open state
+                 SUP   00/00/00   00:00:00   0001672 Terminal Opened
+                 SUP   00/00/00   00:00:00   0001633 Terminal shutdown
+         157632  SUP   00/00/00   00:00:00   0001510 Vote cast by voter
+         157760  SUP   00/00/00   00:00:00   0001510 Vote cast by voter
+                 SUP   00/00/00   00:00:00   0001510 Vote cast by voter
+                 SUP   00/00/00   00:00:00   0001510 Vote cast by voter
+                 SUP   00/00/00   00:00:00   0001510 Vote cast by voter
+                 SUP   00/00/00   00:00:00   0001510 Vote cast by voter
+                 SUP   00/00/00   00:00:00   0001510 Vote cast by voter
+                 SUP   00/00/00   00:00:00   0001510 Vote cast by voter
+                 SUP   00/00/00   00:00:00   0001510 Vote cast by voter
+                 SUP   00/00/00   00:00:00   0001510 Vote cast by voter
+                 SUP   00/00/00   00:00:00   0001510 Vote cast by voter
+                 SUP   00/00/00   00:00:00   0001510 Vote cast by voter
+                 SUP   00/00/00   00:00:00   0001510 Vote cast by voter
+                 SUP   00/00/00   00:00:00   0001510 Vote cast by voter
+         152594  SUP   00/00/00   00:00:00   0001649 Term - entered service menus
+                 SUP   00/00/00   00:00:00   0000114 Select: Setup & Configuration Menu
+                 SUP   00/00/00   00:00:00   0000301 Start override password procedure
+                 SUP   00/00/00   00:00:00   0000116 Select: Configure Terminal
+                 SUP   00/00/00   00:00:00   0000117 Select: Set Time and Date
+RUN DATE:11/19/10 01:19 PM                                                  ELECTION ID: 40110210
+
+Votronic  PEB#   Type    Date       Time     Event
+
+5134787  152594  SUP   11/02/2010 07:53:45   0001656 Set terminal date and/or time
+                 SUP   11/02/2010 07:53:56   0000116 Select: Configure Terminal
+                 SUP   11/02/2010 07:54:28   0000169 Select: Calibrate Screen
+                 SUP   11/02/2010 07:55:38   0001652 Terminal touch-screen test
+                 SUP   11/02/2010 07:55:45   0001655 Terminal touch-screen recalibrated
+                 SUP   11/02/2010 07:55:53   0001650 Term - exited service menus
+                 SUP   11/02/2010 07:55:53   0001633 Terminal shutdown
+         157760  SUP   11/02/2010 07:59:00   0001510 Vote cast by voter
+                 SUP   11/02/2010 08:04:50   0001510 Vote cast by voter
+                 SUP   11/02/2010 08:07:30   0001510 Vote cast by voter
+                 SUP   11/02/2010 08:12:05   0001510 Vote cast by voter
+                 SUP   11/02/2010 08:15:59   0001510 Vote cast by voter
+                 SUP   11/02/2010 08:20:59   0001510 Vote cast by voter
+                 SUP   11/02/2010 08:24:11   0001510 Vote cast by voter
+                 SUP   11/02/2010 08:28:49   0001510 Vote cast by voter
+         157632  SUP   11/02/2010 16:15:39   0001510 Vote cast by voter
+         157156  SUP   11/02/2010 16:21:31   0001510 Vote cast by voter
+                 SUP   11/02/2010 16:22:00   0001720 PEB pulled during PEB block verify
+                 SUP   11/02/2010 16:22:00   0002210 PEB block CRC error
+                 SUP   11/02/2010 16:22:00   0001302 Failed to get PEB vote header block
+                 SUP   11/02/2010 16:22:01   0002400 PEB access failed
+                 SUP   11/02/2010 16:22:01   0000706 Failed to retrieve EQC from PEB
+                 SUP   11/02/2010 16:22:02   0001635 Terminal shutdown - IPS exit
+                 SUP   11/02/2010 16:27:09   0001510 Vote cast by voter
+         157156  SUP   11/02/2010 18:59:27   0001510 Vote cast by voter
+         157632  SUP   11/02/2010 19:01:51   0001510 Vote cast by voter
+                 SUP   11/02/2010 19:02:04   0002810 Terminal - time to close voting
+                 SUP   11/02/2010 19:10:05   0001510 Vote cast by voter
+         157156  SUP   11/02/2010 19:10:20   0002810 Terminal - time to close voting
+                 SUP   11/02/2010 19:16:08   0001510 Vote cast by voter
+                 SUP   11/02/2010 19:16:24   0002810 Terminal - time to close voting
+                 SUP   11/02/2010 19:20:34   0001510 Vote cast by voter
+                 SUP   11/02/2010 19:20:49   0002810 Terminal - time to close voting
+                 SUP   11/02/2010 19:23:13   0001510 Vote cast by voter
+                 SUP   11/02/2010 19:23:26   0002810 Terminal - time to close voting
+                 SUP   11/02/2010 19:27:54   0001510 Vote cast by voter
+         152594  SUP   11/02/2010 19:32:55   0002810 Terminal - time to close voting
+                 SUP   11/02/2010 19:33:03   0001626 Close terminal
+                 SUP   11/02/2010 19:33:03   0002809 Terminal - closing state
+                 SUP   11/02/2010 19:33:03   0001221 Collect terminal vote data to PEB
+                 SUP   11/02/2010 19:33:26   0001303 Transfer PEB vote data to terminal
+                 SUP   11/02/2010 19:33:33   0001208 Merge terminal & PEB vote data
+                 SUP   11/02/2010 19:33:34   0002802 Terminal - open state
+                 SUP   11/02/2010 19:33:34   0002803 Terminal - closed state
+                 SUP   11/02/2010 19:33:35   0002809 Terminal - closing state
+                 SUP   11/02/2010 19:33:38   0001210 Transfer terminal vote data to PEB
+                 SUP   11/02/2010 19:34:04   0001211 Terminal votes to PEB successful
+                 SUP   11/02/2010 19:34:04   0001214 Transfer terminal writein data to PEB
+                 SUP   11/02/2010 19:34:21   0001215 Terminal write-in data to PEB successful
+                 SUP   11/02/2010 19:34:21   0001222 Terminal vote collection successful
+                 SUP   11/02/2010 19:34:21   0002803 Terminal - closed state
+                 SUP   11/02/2010 19:34:21   0001673 Terminal Closed
+                 SUP   11/02/2010 19:34:25   0001401 Copy terminal flash audit data to CF
+                 SUP   11/02/2010 19:34:25   0001400 Verify terminal flash audit data
+                 SUP   11/02/2010 19:34:32   0001416 Copy audit data from TF 1 to CF
+E
