@@ -126,7 +126,7 @@ sub parseCommandLine
 					# prepend new value to front of present value.
 					if ( defined $args{ $opts[$j] } )
 					{
-						$t = $t . "_" . $args{ $opts[$j] };
+						$t = $t . "|" . $args{ $opts[$j] };
 					}
 					
 					$args{ $opts[$j] } = $t;
@@ -165,62 +165,105 @@ sub validFileName
 #
 ############################################################
 
-# print all the items in a list, one per line.
+# print all the items in a list, one per line, returniing number
+# printed.
 
 sub printList
 {
 	my ( $fh, $header, $list ) = @_;
 
+	my $i;
+	
 	print $fh "$header";
 	
-	for ( my $i = 0; $i < @$list; $i++ )
+	for ( $i = 0; $i < @$list; $i++ )
 	{
 		print $fh "$list->[$i]\n";
 	}
+
+	return $i;
 }
 
 
 #########################################################
 
-# print all the items in a hash table, one per line
+# print hash table entries, one per line, returning number printed
+
+sub printHash
+{
+	my ( $fh, $header, $hash ) = @_;
+
+	my $i;
+	
+	print $fh "$header";
+
+	foreach my $key ( sort keys %$hash )
+	{
+		$i++;
+		print $fh "$key\t$hash->{ $key }\n";
+	}
+
+	return $i;
+}
+
+#########################################################
+
+# print all the values in a hash table, one per line, returning
+# number printed
 
 sub printHashValues
 {
 	my ( $fh, $header, $hash ) = @_;
 
+	my $i;
+	
 	print $fh "$header";
 
 	foreach my $key ( sort keys %$hash )
 	{
+		$i++;
 		print $fh "$hash->{ $key }\n";
 	}
+
+	return $i;
 }
 
 #########################################################
 
-# print all the keys in a hash table, one per line
+# print all the keys in a hash table, one per line, returning
+# number printed.
 
 sub printHashKeys
 {
 	my ( $fh, $header, $hash ) = @_;
 
-	print $fh "$header\n\n";
+	my $i;
+	
+	print $fh "$header";
 
 	foreach my $key ( sort keys %$hash )
 	{
+		$i++;
 		print $fh "$key\n";
 	}
+
+	return $i;	
 }
 
 #########################################################
 
 # print all the records, one per line, in a hash table of records, each
-# record separated in the hashed item by $c character.
+# record separated in the hashed item by $c character, returning
+# number printed.
+
+# TODO: verify that number of records printed is counted correctly
 
 sub printHashRecords
 {
 	my ( $fh, $header, $c, $hash ) = @_;
 
+	my $i; my $j;
+	
 	print $fh "$header";
 
 	foreach my $key ( sort keys %$hash )
@@ -228,11 +271,42 @@ sub printHashRecords
 		my $r = $hash->{ $key };
 		my @f = split( $c, $r );
 
-		for ( my $i = 0; $i < @f; $i++ )
+		for ( $j = 0; $j < @f; $j++ )
 		{
-			print $fh "$f[$i]\n";
+			print $fh "$f[$j]\n";
+		}
+
+		$i += $j;
+	}
+
+	return $i;
+}
+
+############################################################
+
+# print all records, one per line, in a hash of a hash of records,
+# returning the number printed.
+
+sub printHoH
+{
+	my ( $fh, $header, $hh ) = @_;
+
+	my $i;
+
+	print $fh "$header";
+	
+	foreach my $ok ( sort keys %$hh )
+	{
+		my $ah = $hh->{ $ok };
+
+		foreach my $ik ( sort keys %$ah )
+		{
+			$i++;
+			print $fh "$ok\t$ik\t$ah->{ $ik }\n";
 		}
 	}
+
+	return $i;
 }
 
 ############################################################
@@ -252,6 +326,89 @@ sub printBIrecord
 	printf $fh "%7d %4d %s %4d %-40s", $ivo, $bi, $asterisk, $cnd_id, $cnd;
 	print $fh "$cnt\n";
 	
+}
+
+############################################################
+#
+# counting functions
+#
+############################################################
+
+# return sum all the values in a hash table
+
+sub sumHashValues
+{
+	my ( $hash ) = @_;
+
+	my $i;
+	
+	foreach my $key ( %$hash )
+	{
+		$i += $hash->{ $key };
+	}
+
+	return $i;	
+}
+
+############################################################
+
+# return sum all the values in a hash of a hash table
+
+sub sumHoHValues
+{
+	my ( $hh ) = @_;
+
+	my $i;
+
+	foreach my $ok ( %$hh )
+	{
+		my $ah = $hh->{ $ok };
+
+		foreach my $ik ( %$ah )
+		{
+			$i += $ah->{ $ik };
+		}
+	}
+
+	return $i;
+}
+
+############################################################
+
+# increment by one the value of a defined key or set to one the
+# value of a previously undefined key
+
+sub incrementHashValue
+{
+	my ( $h, $key ) = @_;
+
+	if ( defined $h->{ $key } )
+	{
+		$h->{ $key }++;
+	}
+	else
+	{
+		$h->{ $key } = 1;
+	}
+}
+
+############################################################
+
+# increment by one the value of a defined key or set to one the
+# value of a previously undefined key
+
+sub incrementHoHValue
+{
+	my ( $hoh, $ik, $ok ) = @_;
+
+	if ( defined $hoh->{ $ik } )
+	{
+		$hoh->{ $ik }{ $ok }++
+	}
+	else
+	{
+		$hoh->{ $ik }{ $ok } = 1;
+	}
 }
 
 ############################################################
@@ -330,6 +487,20 @@ sub appendHash
 		$t .= $c . $r;
 		$h->{ $k } = $t;
 	}	
+}
+
+#########################################################
+
+# Remove items in hash %iv from hash %nv.
+
+sub cleanHash
+{
+	my ( $nv, $iv ) = @_;
+
+	foreach my $key ( keys %$iv )
+	{
+		delete $nv->{ $key };
+	}
 }
 
 #########################################################

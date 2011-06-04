@@ -71,6 +71,9 @@ $rgex::ivo = "\\d{7}";
 # regexp to match event id in event log file
 $rgex::eid = "\\d{1,7}";
 
+# regexp to match "vote cast" events in a cleaned el152 event log file.
+$rgex::vote_cast_event = "vote_cast_by_voter|vote_cast_by_poll_worker";
+
 # regexp to match record format of vote image file. This returns six values
 # in the number variables, iVo id, ballot image id, aserisk indicating ballot
 # border, candidate id, candidate name and contest name.

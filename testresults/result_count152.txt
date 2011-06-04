@@ -1,0 +1,58 @@
+ total number of events (vote_cast_by_voter, vote_cast_by_poll_worker):  114
+
+ total events by iVotronic voting terminal
+
+5101366	20
+5105148	17
+5109676	11
+5119837	34
+5134787	32
+
+ total events by iVotronic voting terminal: 114
+
+ total events by PEB
+
+152659	2
+152811	7
+153112	13
+153194	3
+153285	14
+153323	6
+153428	6
+153467	4
+156094	3
+156163	17
+156921	2
+157156	7
+157364	2
+157632	4
+157721	3
+157760	21
+
+ total events by PEB: 114
+
+ total events by iVotronic voting terminal and PEB
+
+5101366	153112	13
+5101366	153467	4
+5101366	157721	3
+5105148	153194	3
+5105148	153285	14
+5109676	152659	2
+5109676	152811	7
+5109676	157364	2
+5119837	153323	6
+5119837	153428	6
+5119837	156094	3
+5119837	156163	17
+5119837	156921	2
+5134787	157156	7
+5134787	157632	4
+5134787	157760	21
+
+ total events by iVotronic voting terminal and PEB: 114
+
+ iVotronic terminals with no events
+
+
+ iVotronic terminals with no events: 
